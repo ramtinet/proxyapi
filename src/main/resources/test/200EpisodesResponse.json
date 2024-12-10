@@ -1,0 +1,722 @@
+{
+  "copyright": "Copyright Sveriges Radio 2024. All rights reserved.",
+  "episodes": [
+    {
+      "id": 2496974,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496974",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733761800000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736353920000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733761800000)/",
+          "id": 9586491,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9586491&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496974)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733761800000)/",
+            "id": 9586491,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586491.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496974)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733761800000)/",
+        "endtimeutc": "/Date(1733761920000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 17:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733761800000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733761800000)/",
+        "id": 9586479,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586479.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496974)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 17:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733761800000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733761800000)/",
+        "id": 9586479,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586479.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496974)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496973,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496973",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733758200000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736350320000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733758200000)/",
+          "id": 9586358,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9586358&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496973)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733758200000)/",
+            "id": 9586358,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586358.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496973)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733758200000)/",
+        "endtimeutc": "/Date(1733758320000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 16:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733758200000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733758200000)/",
+        "id": 9586347,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586347.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496973)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 16:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733758200000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733758200000)/",
+        "id": 9586347,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586347.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496973)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496972,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496972",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733754600000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736346720000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733754600000)/",
+          "id": 9586215,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9586215&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496972)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733754600000)/",
+            "id": 9586215,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586215.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496972)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733754600000)/",
+        "endtimeutc": "/Date(1733754720000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 15:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733754600000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733754600000)/",
+        "id": 9586198,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586198.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496972)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 15:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733754600000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733754600000)/",
+        "id": 9586198,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586198.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496972)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496970,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496970",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733751000000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736343180000)/",
+        "playlist": {
+          "duration": 150,
+          "publishdateutc": "/Date(1733751000000)/",
+          "id": 9586088,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9586088&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496970)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 150,
+            "publishdateutc": "/Date(1733751000000)/",
+            "id": 9586088,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586088.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496970)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733751000000)/",
+        "endtimeutc": "/Date(1733751120000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 14:30",
+        "description": "",
+        "filesizeinbytes": 2401074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733751000000)/",
+        "duration": 150,
+        "publishdateutc": "/Date(1733751000000)/",
+        "id": 9586076,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586076.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496970)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 14:30",
+        "description": "",
+        "filesizeinbytes": 2401074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733751000000)/",
+        "duration": 150,
+        "publishdateutc": "/Date(1733751000000)/",
+        "id": 9586076,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9586076.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496970)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496969,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496969",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733747400000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736339580000)/",
+        "playlist": {
+          "duration": 150,
+          "publishdateutc": "/Date(1733747400000)/",
+          "id": 9585976,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9585976&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496969)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 150,
+            "publishdateutc": "/Date(1733747400000)/",
+            "id": 9585976,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585976.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496969)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733747400000)/",
+        "endtimeutc": "/Date(1733747520000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 13:30",
+        "description": "",
+        "filesizeinbytes": 2401074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733747400000)/",
+        "duration": 150,
+        "publishdateutc": "/Date(1733747400000)/",
+        "id": 9585966,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585966.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496969)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 13:30",
+        "description": "",
+        "filesizeinbytes": 2401074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733747400000)/",
+        "duration": 150,
+        "publishdateutc": "/Date(1733747400000)/",
+        "id": 9585966,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585966.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496969)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496968,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496968",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733743800000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736335920000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733743800000)/",
+          "id": 9585845,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9585845&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496968)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733743800000)/",
+            "id": 9585845,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585845.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496968)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733743800000)/",
+        "endtimeutc": "/Date(1733743920000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 12:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733743800000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733743800000)/",
+        "id": 9585841,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585841.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496968)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 12:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733743800000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733743800000)/",
+        "id": 9585841,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585841.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496968)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496967,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496967",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733740200000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736332320000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733740200000)/",
+          "id": 9585746,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9585746&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496967)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733740200000)/",
+            "id": 9585746,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585746.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496967)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733740200000)/",
+        "endtimeutc": "/Date(1733740320000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 11:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733740200000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733740200000)/",
+        "id": 9585736,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585736.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496967)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 11:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733740200000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733740200000)/",
+        "id": 9585736,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585736.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496967)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496966,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496966",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733736600000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736328720000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733736600000)/",
+          "id": 9585666,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9585666&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496966)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733736600000)/",
+            "id": 9585666,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585666.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496966)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733736600000)/",
+        "endtimeutc": "/Date(1733736720000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 10:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733736600000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733736600000)/",
+        "id": 9585650,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585650.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496966)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 10:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733736600000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733736600000)/",
+        "id": 9585650,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585650.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496966)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496964,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496964",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733733000000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736325120000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733733000000)/",
+          "id": 9585553,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9585553&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496964)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733733000000)/",
+            "id": 9585553,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585553.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496964)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733733000000)/",
+        "endtimeutc": "/Date(1733733120000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 09:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733733000000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733733000000)/",
+        "id": 9585544,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585544.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496964)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 09:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733733000000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733733000000)/",
+        "id": 9585544,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585544.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496964)]"
+      },
+      "channelid": 200
+    },
+    {
+      "id": 2496963,
+      "title": "Nyheter P4 Jämtland",
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "url": "https://sverigesradio.se/avsnitt/2496963",
+      "program": {
+        "id": 78,
+        "name": "P4 Jämtland"
+      },
+      "audiopreference": "default",
+      "audiopriority": "aac",
+      "audiopresentation": "format",
+      "publishdateutc": "/Date(1733729400000)/",
+      "imageurl": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-square",
+      "imageurltemplate": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "photographer": "",
+      "broadcast": {
+        "availablestoputc": "/Date(1736321520000)/",
+        "playlist": {
+          "duration": 120,
+          "publishdateutc": "/Date(1733729400000)/",
+          "id": 9585449,
+          "url": "https://api.sr.se/api/radio/radio.aspx?type=broadcast&id=9585449&codingformat=.m4a&metafile=asx",
+          "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496963)]"
+        },
+        "broadcastfiles": [
+          {
+            "duration": 120,
+            "publishdateutc": "/Date(1733729400000)/",
+            "id": 9585449,
+            "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585449.m4a",
+            "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496963)]"
+          }
+        ]
+      },
+      "broadcasttime": {
+        "starttimeutc": "/Date(1733729400000)/",
+        "endtimeutc": "/Date(1733729520000)/"
+      },
+      "listenpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 08:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733729400000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733729400000)/",
+        "id": 9585437,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585437.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496963)]"
+      },
+      "downloadpodfile": {
+        "title": "Nyheter P4 Jämtland 20241209 08:30",
+        "description": "",
+        "filesizeinbytes": 1921074,
+        "program": {
+          "id": 78,
+          "name": "P4 Jämtland"
+        },
+        "availablefromutc": "/Date(1733729400000)/",
+        "duration": 120,
+        "publishdateutc": "/Date(1733729400000)/",
+        "id": 9585437,
+        "url": "https://sverigesradio.se/topsy/ljudfil/srapi/9585437.mp3",
+        "statkey": "/app/avsnitt/p4 jämtland[k(200)]/p4 jämtland[p(78)]/[e(2496963)]"
+      },
+      "channelid": 200
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "size": 10,
+    "totalhits": 10000,
+    "totalpages": 1000,
+    "nextpage": "https://api.sr.se/v2/episodes/index?programid=78&todate=2024-12-10&format=json&size=10&page=2"
+  }
+}

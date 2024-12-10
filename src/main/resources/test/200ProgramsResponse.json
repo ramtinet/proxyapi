@@ -1,0 +1,3852 @@
+{
+  "copyright": "Copyright Sveriges Radio 2024. All rights reserved.",
+  "programs": [
+    {
+      "description": "I P4 Jämtland hör du lokala nyheter, aktualiteter, väderprognoser, sport och kultur.",
+      "broadcastinfo": "Har du nyhetstips? Kontakta oss via e-post: p4jamtland@sverigesradio.se eller 063-16 06 31",
+      "email": "p4jamtland@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=78",
+      "programslug": "jamtland",
+      "programimage": "https://static-cdn.sr.se/images/78/3f969001-3c0d-46c0-a3a6-30b44ef999c0.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/78/3f969001-3c0d-46c0-a3a6-30b44ef999c0.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/78/4c177fcc-4f7d-4661-86e5-ceaab573cbb0.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/78/3f969001-3c0d-46c0-a3a6-30b44ef999c0.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/78/3f969001-3c0d-46c0-a3a6-30b44ef999c0.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Jamtland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4jamtland/"
+        }
+      ],
+      "channel": {
+        "id": 200,
+        "name": "P4 Jämtland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Olof Ekerlid",
+      "id": 78,
+      "name": "Nyheter P4 Jämtland"
+    },
+    {
+      "description": "P4 Kalmar ger dig lokala nyheter och program från Kalmar län.",
+      "email": "p4kalmar@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=86",
+      "programslug": "kalmar",
+      "programimage": "https://static-cdn.sr.se/images/86/0362583a-5cf4-4f0c-abf2-1a289b3e5233.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/86/0362583a-5cf4-4f0c-abf2-1a289b3e5233.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/86/8762a8e3-321d-43e2-9c11-03bd835cae2d.png?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/86/8762a8e3-321d-43e2-9c11-03bd835cae2d.png",
+      "socialimage": "https://static-cdn.sr.se/images/86/0362583a-5cf4-4f0c-abf2-1a289b3e5233.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/86/0362583a-5cf4-4f0c-abf2-1a289b3e5233.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4kalmar"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4kalmar/"
+        }
+      ],
+      "channel": {
+        "id": 201,
+        "name": "P4 Kalmar"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Johan Signert",
+      "id": 86,
+      "name": "Nyheter P4 Kalmar"
+    },
+    {
+      "description": "I P4 Sörmland hör du det senaste som händer i länet. Du får aktuella nyheter, intervjuer, trafik och väder blandat med musik.",
+      "broadcastinfo": "Har du tips? Mejla oss: p4sormland@sverigesradio.se",
+      "email": "p4sormland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=87",
+      "programslug": "sormland",
+      "programimage": "https://static-cdn.sr.se/images/87/10701bd3-99ed-454c-a542-692ed5820542.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/87/10701bd3-99ed-454c-a542-692ed5820542.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/87/c530b929-781a-410f-9f94-0d9e79f04326.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/87/c530b929-781a-410f-9f94-0d9e79f04326.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/87/10701bd3-99ed-454c-a542-692ed5820542.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/87/10701bd3-99ed-454c-a542-692ed5820542.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4sormland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4sormland/"
+        }
+      ],
+      "channel": {
+        "id": 202,
+        "name": "P4 Sörmland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Robin Gustafsson",
+      "id": 87,
+      "name": "Nyheter P4 Sörmland"
+    },
+    {
+      "description": "I P4 Jönköping hör du de senaste nyheterna direkt nära dig, där din och andras röster tillsammans skildrar hela Jönköpings län.",
+      "broadcastinfo": "Varje dag. Året runt.",
+      "email": "p4jonkoping@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=91",
+      "programslug": "jonkoping",
+      "programimage": "https://static-cdn.sr.se/images/91/871ef916-e53d-4646-9f30-77e4c6e37d6c.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/91/871ef916-e53d-4646-9f30-77e4c6e37d6c.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/91/4c7aea0a-1f3f-49d5-ad62-941b4b2763a3.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/91/4c7aea0a-1f3f-49d5-ad62-941b4b2763a3.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/91/871ef916-e53d-4646-9f30-77e4c6e37d6c.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/91/871ef916-e53d-4646-9f30-77e4c6e37d6c.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Jonkoping"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4jonkoping/"
+        }
+      ],
+      "channel": {
+        "id": 203,
+        "name": "P4 Jönköping"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter Olsson",
+      "id": 91,
+      "name": "Nyheter P4 Jönköping"
+    },
+    {
+      "description": "I P4 Värmland hör du lokala nyheter, lokala aktualiteter och lokal kultur.",
+      "email": "p4varmland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=93",
+      "programslug": "varmland",
+      "programimage": "https://static-cdn.sr.se/images/93/1d5fc155-05eb-4e62-bc96-87fc282131b1.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/93/1d5fc155-05eb-4e62-bc96-87fc282131b1.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/93/79732d1f-f9f3-4b58-b6f3-049955ac0b50.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/93/79732d1f-f9f3-4b58-b6f3-049955ac0b50.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/93/1d5fc155-05eb-4e62-bc96-87fc282131b1.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/93/1d5fc155-05eb-4e62-bc96-87fc282131b1.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Varmland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4varmland/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/P4Varmland/"
+        }
+      ],
+      "channel": {
+        "id": 204,
+        "name": "P4 Värmland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Ola Finell",
+      "id": 93,
+      "name": "Nyheter P4 Värmland"
+    },
+    {
+      "description": "P4 Gotland bevakar det som händer på och omkring Gotland, med nyheter, intervjuer och reportage.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "email": "p4gotland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=94",
+      "programslug": "gotland",
+      "programimage": "https://static-cdn.sr.se/images/94/6463a9b6-4662-4815-bbbc-7dbbf21d241e.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/94/6463a9b6-4662-4815-bbbc-7dbbf21d241e.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/94/62fc65b7-2eac-42b6-8ec5-eae44d444dcc.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/94/62fc65b7-2eac-42b6-8ec5-eae44d444dcc.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/94/6463a9b6-4662-4815-bbbc-7dbbf21d241e.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/94/6463a9b6-4662-4815-bbbc-7dbbf21d241e.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4gotland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4gotland/"
+        }
+      ],
+      "channel": {
+        "id": 205,
+        "name": "P4 Gotland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Jacob Wesley",
+      "id": 94,
+      "name": "Nyheter P4 Gotland"
+    },
+    {
+      "description": "Lokala nyheter över Sjuhärad - dagligen, året runt",
+      "email": "david.svanberg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=95",
+      "programslug": "sjuharad",
+      "programimage": "https://static-cdn.sr.se/images/95/166bb0fb-282d-4823-a5ea-2ead69f4f662.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/95/166bb0fb-282d-4823-a5ea-2ead69f4f662.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/95/995cf384-daa5-4e04-bfc9-8e86ed3de35d.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/95/995cf384-daa5-4e04-bfc9-8e86ed3de35d.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/95/166bb0fb-282d-4823-a5ea-2ead69f4f662.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/95/166bb0fb-282d-4823-a5ea-2ead69f4f662.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Sjuharad"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4sjuharad/"
+        }
+      ],
+      "channel": {
+        "id": 206,
+        "name": "P4 Sjuhärad"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "David Svanberg",
+      "id": 95,
+      "name": "Nyheter P4 Sjuhärad"
+    },
+    {
+      "description": "Lokala nyheter, sport och kultur från Skåne.",
+      "broadcastinfo": "Helsingborg 103,2 MHz ● Hörby 89,5 MHz ● Malmö 102,0 MHz ● Trelleborg 103,7 MHz ● Ystad 103,0 MHz",
+      "email": "p4malmohus@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=96",
+      "programslug": "malmohus",
+      "programimage": "https://static-cdn.sr.se/images/96/7f1146dd-3513-4c55-8ad8-231d89679ee0.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/96/7f1146dd-3513-4c55-8ad8-231d89679ee0.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/96/2684b5f3-4647-4f50-983e-c34529abdfb7.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/96/2684b5f3-4647-4f50-983e-c34529abdfb7.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/96/7f1146dd-3513-4c55-8ad8-231d89679ee0.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/96/7f1146dd-3513-4c55-8ad8-231d89679ee0.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/pages/Sveriges-Radio-P4-Radio-Malm%C3%B6hus/184974592076"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4malmohus/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4malmohus/"
+        }
+      ],
+      "channel": {
+        "id": 207,
+        "name": "P4 Malmöhus"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Alexander Vickhoff",
+      "id": 96,
+      "name": "Nyheter P4 Malmöhus"
+    },
+    {
+      "description": "Skaraborgs största radiokanal ger dig senaste nytt där du bor.",
+      "email": "nyheterna.skaraborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=97",
+      "programslug": "skaraborg",
+      "programimage": "https://static-cdn.sr.se/images/97/3818050a-3ef6-4210-a7ca-849f7549a04e.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/97/3818050a-3ef6-4210-a7ca-849f7549a04e.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/97/66c19b24-8e0d-4ff3-bf44-9033c93efbf0.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/97/66c19b24-8e0d-4ff3-bf44-9033c93efbf0.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/97/3818050a-3ef6-4210-a7ca-849f7549a04e.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/97/3818050a-3ef6-4210-a7ca-849f7549a04e.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Skaraborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4skaraborg_/"
+        }
+      ],
+      "channel": {
+        "id": 208,
+        "name": "P4 Skaraborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Linnéa Frimodig",
+      "id": 97,
+      "name": "Nyheter P4 Skaraborg"
+    },
+    {
+      "description": "P4 är Sveriges största radiokanal. Det är den snabba, närvarande, lokala kanalen som utgår från din vardag med nyheter, kultur och sport.",
+      "broadcastinfo": "",
+      "email": "p4norrbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=98",
+      "programslug": "norrbotten",
+      "programimage": "https://static-cdn.sr.se/images/98/f32fc0a1-4608-4224-8b08-ef0d3188a164.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/98/f32fc0a1-4608-4224-8b08-ef0d3188a164.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/98/c0c18dc7-16ac-4df8-a763-ad948453318b.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/98/c0c18dc7-16ac-4df8-a763-ad948453318b.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/98/f32fc0a1-4608-4224-8b08-ef0d3188a164.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/98/f32fc0a1-4608-4224-8b08-ef0d3188a164.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4norrbotten"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4norrbotten/"
+        }
+      ],
+      "channel": {
+        "id": 209,
+        "name": "P4 Norrbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Armi Rousu",
+      "id": 98,
+      "name": "Nyheter P4 Norrbotten"
+    },
+    {
+      "description": "I P4 Gävleborg hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "email": "p4gavleborg@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=99",
+      "programslug": "gavleborg",
+      "programimage": "https://static-cdn.sr.se/images/99/052cea14-9334-495c-942f-2ff5395b7b76.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/99/052cea14-9334-495c-942f-2ff5395b7b76.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/99/ba4a3ac9-6396-4db0-ac4e-b9824d6ad75d.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/99/ba4a3ac9-6396-4db0-ac4e-b9824d6ad75d.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/99/052cea14-9334-495c-942f-2ff5395b7b76.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/99/052cea14-9334-495c-942f-2ff5395b7b76.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4gavleborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4gavleborg/"
+        }
+      ],
+      "channel": {
+        "id": 210,
+        "name": "P4 Gävleborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Staffan Mälstam",
+      "id": 99,
+      "name": "Nyheter P4 Gävleborg"
+    },
+    {
+      "description": "I P4 Kristianstad hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "email": "p4kristianstad@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=101",
+      "programslug": "kristianstad",
+      "programimage": "https://static-cdn.sr.se/images/101/df77b7c0-4a94-4a2d-bebb-fd9754e1a8cf.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/101/df77b7c0-4a94-4a2d-bebb-fd9754e1a8cf.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/101/f4ab87c7-7aa3-4b57-868e-e7132feecccf.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/101/f4ab87c7-7aa3-4b57-868e-e7132feecccf.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/101/df77b7c0-4a94-4a2d-bebb-fd9754e1a8cf.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/101/df77b7c0-4a94-4a2d-bebb-fd9754e1a8cf.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4kristianstad/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4kristianstad/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4kristianstad/"
+        }
+      ],
+      "channel": {
+        "id": 211,
+        "name": "P4 Kristianstad"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Linnéa Mattisson",
+      "id": 101,
+      "name": "Nyheter P4 Kristianstad"
+    },
+    {
+      "description": "Stockholms största radiokanal med nyheter, sport och kultur i en härlig blandning.",
+      "broadcastinfo": "Vardagar från 05.59",
+      "email": "p4stockholm@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=103",
+      "programslug": "stockholm",
+      "programimage": "https://static-cdn.sr.se/images/103/922c06d4-882e-4fda-ad93-936114d539eb.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/103/922c06d4-882e-4fda-ad93-936114d539eb.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/103/8af3e24d-84b7-48f8-8815-5658cea30b5f.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/103/8af3e24d-84b7-48f8-8815-5658cea30b5f.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/103/922c06d4-882e-4fda-ad93-936114d539eb.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/103/922c06d4-882e-4fda-ad93-936114d539eb.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4stockholm/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4stockholm/"
+        }
+      ],
+      "channel": {
+        "id": 701,
+        "name": "P4 Stockholm"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Alisa Bosnic",
+      "id": 103,
+      "name": "Nyheter P4 Stockholm"
+    },
+    {
+      "description": "Sveriges Radio P4 Göteborg ger dig lokala nyheter – i radion och på webben.",
+      "email": "kajsa.hallberg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=104",
+      "programslug": "goteborg",
+      "programimage": "https://static-cdn.sr.se/images/104/1b11d9e0-c0c3-49a3-b718-157bdd106b2f.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/104/1b11d9e0-c0c3-49a3-b718-157bdd106b2f.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/104/6be97db5-27c8-4ae0-959a-224d094a655e.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/104/6be97db5-27c8-4ae0-959a-224d094a655e.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/104/1b11d9e0-c0c3-49a3-b718-157bdd106b2f.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/104/1b11d9e0-c0c3-49a3-b718-157bdd106b2f.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4SRGoteborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4goteborg/"
+        }
+      ],
+      "channel": {
+        "id": 212,
+        "name": "P4 Göteborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Kajsa Hallberg",
+      "id": 104,
+      "name": "Nyheter P4 Göteborg"
+    },
+    {
+      "description": "I P4 Blekinge hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "broadcastinfo": "Tipstelefon: 0455-366810 Nyhetschef: 0455-366822 Frekvenser: Karlskrona 100,7 ● Ronneby 87,8 ● Karlshamn 100,4",
+      "email": "p4blekinge@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=105",
+      "programslug": "blekinge",
+      "programimage": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/105/fa686150-6add-4207-a006-451b4f8b0a9c.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/105/fa686150-6add-4207-a006-451b4f8b0a9c.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradioblekinge"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4blekinge/"
+        }
+      ],
+      "channel": {
+        "id": 213,
+        "name": "P4 Blekinge"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peppe Alfiero",
+      "id": 105,
+      "name": "Nyheter P4 Blekinge"
+    },
+    {
+      "description": "P4 Kronoberg är länets största radiokanal med nyheter, aktualiteter och kultur. Vi ger dig angelägna program där du bor och senaste nytt från hela världen.",
+      "email": "p4kronoberg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=106",
+      "programslug": "kronoberg",
+      "programimage": "https://static-cdn.sr.se/images/106/f4148bd0-3c6d-4943-87fa-3ee361186618.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/106/f4148bd0-3c6d-4943-87fa-3ee361186618.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/106/a2023b9e-b93f-4da6-9932-87bae96f5733.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/106/a2023b9e-b93f-4da6-9932-87bae96f5733.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/106/f4148bd0-3c6d-4943-87fa-3ee361186618.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/106/f4148bd0-3c6d-4943-87fa-3ee361186618.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4kronobergSR"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4kronoberg/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4kronoberg/"
+        }
+      ],
+      "channel": {
+        "id": 214,
+        "name": "P4 Kronoberg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Marcus Sjöholm",
+      "id": 106,
+      "name": "Nyheter P4 Kronoberg"
+    },
+    {
+      "description": "P4 är Sveriges största radiokanal. Det är den snabba, närvarande kanalen som utgår från din vardag.",
+      "email": "p4vasterbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=109",
+      "programslug": "vasterbotten",
+      "programimage": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/109/f94517ab-9113-454b-b4a5-44a76ef3858a.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/109/f94517ab-9113-454b-b4a5-44a76ef3858a.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4vasterbotten"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4vasterbotten/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4vasterbotten/"
+        }
+      ],
+      "channel": {
+        "id": 215,
+        "name": "P4 Västerbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Anders Bäckström",
+      "id": 109,
+      "name": "Nyheter P4 Västerbotten"
+    },
+    {
+      "description": "I P4 Västernorrland hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.",
+      "email": "p4vasternorrland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=110",
+      "programslug": "vasternorrland",
+      "programimage": "https://static-cdn.sr.se/images/110/0b52fa25-32aa-40ba-8b1e-a71c24334a83.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/110/0b52fa25-32aa-40ba-8b1e-a71c24334a83.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/110/304b23bc-6fcf-4a5c-9908-26000d764c90.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/110/304b23bc-6fcf-4a5c-9908-26000d764c90.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/110/0b52fa25-32aa-40ba-8b1e-a71c24334a83.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/110/0b52fa25-32aa-40ba-8b1e-a71c24334a83.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://facebook.com/P4Vasternorrland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4vasternorrland/"
+        }
+      ],
+      "channel": {
+        "id": 216,
+        "name": "P4 Västernorrland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Susanne Helsing",
+      "id": 110,
+      "name": "Nyheter P4 Västernorrland"
+    },
+    {
+      "description": "P4 Västmanland ger dig lokala nyheter, aktualiteter och underhållning. Vi ger dig också senaste nytt från hela Sverige och världen dygnet runt i radion och i appen Sveriges Radio Play.",
+      "broadcastinfo": "På frekvensen 100,5. Vardagar 6.00-17.35. Under helger lokala nyheter och sport.",
+      "email": "p4vastmanland@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=112",
+      "programslug": "vastmanland",
+      "programimage": "https://static-cdn.sr.se/images/112/77b80d61-5438-45e5-98df-9208c918ef6b.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/112/77b80d61-5438-45e5-98df-9208c918ef6b.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/112/ae52b027-8993-4ba1-9769-d195628540f7.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/112/ae52b027-8993-4ba1-9769-d195628540f7.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/112/77b80d61-5438-45e5-98df-9208c918ef6b.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/112/77b80d61-5438-45e5-98df-9208c918ef6b.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Sveriges.Radio.P4.Vastmanland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4vastmanland/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4vastmanland/"
+        }
+      ],
+      "channel": {
+        "id": 217,
+        "name": "P4 Västmanland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Lasse Eskelind",
+      "id": 112,
+      "name": "Nyheter P4 Västmanland"
+    },
+    {
+      "description": "P4 Uppland ger dig lokala nyheter, viktiga samhällsfrågor och underhållning. Vi granskar makten, bevakar sporten och följer kulturlivet.",
+      "email": "p4uppland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=114",
+      "programslug": "uppland",
+      "programimage": "https://static-cdn.sr.se/images/114/fcf723dc-a20f-4166-bda9-ebaf2a1c53d3.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/114/fcf723dc-a20f-4166-bda9-ebaf2a1c53d3.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/114/d334534f-634a-40b0-92b6-b2dc34299a97.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/114/d334534f-634a-40b0-92b6-b2dc34299a97.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/114/fcf723dc-a20f-4166-bda9-ebaf2a1c53d3.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/114/fcf723dc-a20f-4166-bda9-ebaf2a1c53d3.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Uppland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4uppland/"
+        }
+      ],
+      "channel": {
+        "id": 218,
+        "name": "P4 Uppland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Markus Boger",
+      "id": 114,
+      "name": "Nyheter P4 Uppland"
+    },
+    {
+      "description": "P4 Väst ger dig nyheter från Bohuslän, Norra Älvsborg och Dalsland.",
+      "email": "nyheter.vast@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=125",
+      "programslug": "vast",
+      "programimage": "https://static-cdn.sr.se/images/125/cf26aa1e-1aa5-4887-bb6a-5e2bf55d5b36.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/125/cf26aa1e-1aa5-4887-bb6a-5e2bf55d5b36.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/125/94efc3db-94e3-4128-958f-e8b0c4d3cc57.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/125/94efc3db-94e3-4128-958f-e8b0c4d3cc57.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/125/cf26aa1e-1aa5-4887-bb6a-5e2bf55d5b36.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/125/cf26aa1e-1aa5-4887-bb6a-5e2bf55d5b36.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4vast"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4vast/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4vast/"
+        }
+      ],
+      "channel": {
+        "id": 219,
+        "name": "P4 Väst"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter Sundblad",
+      "id": 125,
+      "name": "Nyheter P4 Väst"
+    },
+    {
+      "description": "P4 Halland erbjuder lokala nyheter och aktualiteter.\n\nFrekvenser:\n\nHalmstad 97,3 MHz ● Kungsbacka 101,3 MHz ● Varberg 103,8 MHz",
+      "broadcastinfo": "",
+      "email": "samira.othman@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=128",
+      "programslug": "halland",
+      "programimage": "https://static-cdn.sr.se/images/128/4c54bd50-16c0-4d68-8e71-943f237205ec.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/128/4c54bd50-16c0-4d68-8e71-943f237205ec.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/128/4891d61b-9fb1-40ae-a9b0-1300b8707456.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/128/4891d61b-9fb1-40ae-a9b0-1300b8707456.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/128/4c54bd50-16c0-4d68-8e71-943f237205ec.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/128/4c54bd50-16c0-4d68-8e71-943f237205ec.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4halland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4halland/"
+        }
+      ],
+      "channel": {
+        "id": 220,
+        "name": "P4 Halland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Samira Othman",
+      "id": 128,
+      "name": "Nyheter P4 Halland"
+    },
+    {
+      "description": "I P4 Örebro hör du lokala nyheter, lokala aktualiteter och lokal kultur.",
+      "email": "p4orebro@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=159",
+      "programslug": "orebro",
+      "programimage": "https://static-cdn.sr.se/images/159/ac009ee0-2c0f-444d-ac67-7db5733365d2.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/159/ac009ee0-2c0f-444d-ac67-7db5733365d2.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/159/92279a75-444a-4161-a626-6143498a8996.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/159/92279a75-444a-4161-a626-6143498a8996.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/159/ac009ee0-2c0f-444d-ac67-7db5733365d2.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/159/ac009ee0-2c0f-444d-ac67-7db5733365d2.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/SRP4orebro"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4Orebro/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4orebro/"
+        }
+      ],
+      "channel": {
+        "id": 221,
+        "name": "P4 Örebro"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Anna Holm",
+      "id": 159,
+      "name": "Nyheter P4 Örebro"
+    },
+    {
+      "description": "I P4 Östergötland hör du lokala nyheter, lokala aktualiteter och lokal kultur. Du bjuds på en heltäckande, angelägen kanal där du bor.\n\nTipsa oss: 011- 495 42 00",
+      "email": "p4ostergotland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=160",
+      "programslug": "ostergotland",
+      "programimage": "https://static-cdn.sr.se/images/160/b1ef2ca2-b8a4-4885-8bc6-8ee9aea97e2d.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/160/b1ef2ca2-b8a4-4885-8bc6-8ee9aea97e2d.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/160/985ba016-d45d-4e0a-9a60-340aa2c177c3.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/160/985ba016-d45d-4e0a-9a60-340aa2c177c3.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/160/b1ef2ca2-b8a4-4885-8bc6-8ee9aea97e2d.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/160/b1ef2ca2-b8a4-4885-8bc6-8ee9aea97e2d.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/srostergotland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4ostergotland/"
+        }
+      ],
+      "channel": {
+        "id": 222,
+        "name": "P4 Östergötland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Sofie Lycksell",
+      "id": 160,
+      "name": "Nyheter P4 Östergötland"
+    },
+    {
+      "description": "P4 Dalarna gör angelägen lokal radio för dalfolket, på plats när det händer. I våra populära program och prisbelönta nyheter hör du ämnen som berör, alltid dagsaktuella och alltid med Dalarna i centrum.",
+      "email": "dalanytt@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=161",
+      "programslug": "dalarna",
+      "programimage": "https://static-cdn.sr.se/images/161/c535c8ea-ac07-416a-89b2-171c7656345f.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/161/c535c8ea-ac07-416a-89b2-171c7656345f.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/161/ee7e0733-931e-44ef-bfa3-f501f3af3aee.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/161/ee7e0733-931e-44ef-bfa3-f501f3af3aee.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/161/c535c8ea-ac07-416a-89b2-171c7656345f.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/161/c535c8ea-ac07-416a-89b2-171c7656345f.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/pages/P4-Dalarna-Sveriges-Radio/139233259459139"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4dalarna/"
+        }
+      ],
+      "channel": {
+        "id": 223,
+        "name": "P4 Dalarna"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Johannes Rosendahl ",
+      "id": 161,
+      "name": "Nyheter P4 Dalarna"
+    },
+    {
+      "description": "Ekonomiekot är Ekots nyhetsprogram om senaste nytt i ekonomins värld.",
+      "programcategory": {
+        "id": 135,
+        "name": "Ekonomi"
+      },
+      "broadcastinfo": "Klockan 06:32, 07:32, 08:32 och 18:01",
+      "email": "ekonomiekot@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=178",
+      "programslug": "ekonomiekot",
+      "programimage": "https://static-cdn.sr.se/images/178/bca2e1e9-a66d-4dff-9886-e2a1f2459c26.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/178/bca2e1e9-a66d-4dff-9886-e2a1f2459c26.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/178/afba7a70-51c3-49d4-adb7-99cc1ff0f68a.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/178/afba7a70-51c3-49d4-adb7-99cc1ff0f68a.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/178/bca2e1e9-a66d-4dff-9886-e2a1f2459c26.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/178/bca2e1e9-a66d-4dff-9886-e2a1f2459c26.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/srekot"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 83,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Klas Wolf-Watz",
+      "id": 178,
+      "name": "Ekonomiekot"
+    },
+    {
+      "description": "Vi bjuder på över 100 timmar direktsänd sport varje vecka i programmet Sportextra.",
+      "programcategory": {
+        "id": 10,
+        "name": "Sport"
+      },
+      "email": "radiosporten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=179",
+      "programslug": "radiosporten",
+      "programimage": "https://static-cdn.sr.se/images/179/fd057af8-89aa-486c-8136-232ef772c648.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/179/fd057af8-89aa-486c-8136-232ef772c648.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/179/c5244338-5fc6-450a-86d8-82e67c9a2d7d.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/179/c5244338-5fc6-450a-86d8-82e67c9a2d7d.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/179/fd057af8-89aa-486c-8136-232ef772c648.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/179/fd057af8-89aa-486c-8136-232ef772c648.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Radiosporten"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/radiosporten/"
+        }
+      ],
+      "channel": {
+        "id": 179,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Tobias Rosvall",
+      "id": 179,
+      "name": "Radiosporten"
+    },
+    {
+      "description": "Ruotsi suomeksi, silloin kun sinulle sopii. Live och poddar. Både på finska och svenska.",
+      "programcategory": {
+        "id": 11,
+        "name": "News in other languages"
+      },
+      "broadcastinfo": "Joka päivä 06-24",
+      "email": "uutiset@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=185",
+      "programslug": "finska",
+      "programimage": "https://static-cdn.sr.se/images/185/249d1edf-7904-489a-b666-d0fa344c1bab.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/185/249d1edf-7904-489a-b666-d0fa344c1bab.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/185/0038c524-3433-4c3b-b78b-352c355d35f3.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/185/0038c524-3433-4c3b-b78b-352c355d35f3.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/185/249d1edf-7904-489a-b666-d0fa344c1bab.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/185/249d1edf-7904-489a-b666-d0fa344c1bab.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiofinska"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradiofinska/"
+        }
+      ],
+      "channel": {
+        "id": 226,
+        "name": "Sveriges Radio Finska"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Helena Huhta Hermans",
+      "id": 185,
+      "name": "Uutiset / Nyheter från Sveriges Radio Finska"
+    },
+    {
+      "description": "Ditt frukostsällskap i vardagen. Nyheter, sport, trafik & väder blandas med musik, gäster & direktsändningar från hela Norrbotten.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Vardagar kl 5.59–9.30",
+      "email": "p4norrbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=229",
+      "programslug": "morgonip4norrbotten",
+      "programimage": "https://static-cdn.sr.se/images/229/b5dae1b5-f05b-45b1-a3ce-3a1b7d3e601a.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/229/b5dae1b5-f05b-45b1-a3ce-3a1b7d3e601a.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/229/959749c9-6d7c-42e9-89ba-7d70a62482ec.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/229/959749c9-6d7c-42e9-89ba-7d70a62482ec.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/229/b5dae1b5-f05b-45b1-a3ce-3a1b7d3e601a.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/229/b5dae1b5-f05b-45b1-a3ce-3a1b7d3e601a.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4norrbotten"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4norrbotten/"
+        }
+      ],
+      "channel": {
+        "id": 209,
+        "name": "P4 Norrbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Armi Rousu",
+      "id": 229,
+      "name": "Morgon i P4 Norrbotten"
+    },
+    {
+      "description": "Förmiddag i P4 Dalarna ger dig koll på det senaste i länet, Sverige och världen. Vi är ditt sällskap under förmiddagarna och blandar underhållning med berörande intervjuer och snabba nyhetsuppdateringar.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Vardagar 09:30-12:56",
+      "email": "dalaformiddag@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=233",
+      "programslug": "formiddagip4dalarna",
+      "programimage": "https://static-cdn.sr.se/images/233/6a6af36a-df25-4b76-9e47-a33721c821cf.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/233/6a6af36a-df25-4b76-9e47-a33721c821cf.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/233/b3f33700-526b-4f01-9fb7-e6bc7db2e372.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/233/b3f33700-526b-4f01-9fb7-e6bc7db2e372.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/233/6a6af36a-df25-4b76-9e47-a33721c821cf.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/233/6a6af36a-df25-4b76-9e47-a33721c821cf.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/pages/P4-Dalarna-Sveriges-Radio/139233259459139"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4Dalarna/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4dalarna/"
+        }
+      ],
+      "channel": {
+        "id": 223,
+        "name": "P4 Dalarna"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Johannes Rosendahl ",
+      "id": 233,
+      "name": "Förmiddag i P4 Dalarna"
+    },
+    {
+      "description": "Vi summerar dagens viktigaste händelser – och guidar dig inför kvällens aktiviteter.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag till fredag kl. 15.03-17.45",
+      "email": "p4vasternorrland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=240",
+      "programslug": "eftermiddagip4vasternorrland",
+      "programimage": "https://static-cdn.sr.se/images/240/8c381c93-5888-4c62-bde4-5057f5474f5b.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/240/8c381c93-5888-4c62-bde4-5057f5474f5b.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/240/a917fbe3-0981-46fb-9cb8-c12323dff30b.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/240/a917fbe3-0981-46fb-9cb8-c12323dff30b.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/240/8c381c93-5888-4c62-bde4-5057f5474f5b.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/240/8c381c93-5888-4c62-bde4-5057f5474f5b.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://facebook.com/P4Vasternorrland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4vn/"
+        }
+      ],
+      "channel": {
+        "id": 216,
+        "name": "P4 Västernorrland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Susanne Helsing",
+      "id": 240,
+      "name": "Eftermiddag i P4 Västernorrland"
+    },
+    {
+      "description": "Aktuella händelser, debatter och nyheter med våra programledare som håller dina öron sällskap från 15.00 till 17.34 alla vardagar.",
+      "broadcastinfo": "Varje vardag kl. 15.03 - 17.30",
+      "email": "p4gotland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=260",
+      "programslug": "eftermiddagip4gotland",
+      "programimage": "https://static-cdn.sr.se/images/260/be7b84a8-a109-4a7d-a535-ca426ad2a032.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/260/be7b84a8-a109-4a7d-a535-ca426ad2a032.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/260/9b809e42-b19b-4581-a488-ebbb15c2fcef.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/260/9b809e42-b19b-4581-a488-ebbb15c2fcef.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/260/be7b84a8-a109-4a7d-a535-ca426ad2a032.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/260/be7b84a8-a109-4a7d-a535-ca426ad2a032.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://sv-se.facebook.com/p4gotland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4gotland/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4gotland/"
+        }
+      ],
+      "channel": {
+        "id": 205,
+        "name": "P4 Gotland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Jacob Wesley",
+      "id": 260,
+      "name": "Eftermiddag i P4 Gotland"
+    },
+    {
+      "description": "Livsstils- och kulturmagasin med aktualiteter, gäster, tävlingar, musik & direktsändningar från hela Norrbotten.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Vardagar kl 9.32–12.56",
+      "email": "p4norrbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=275",
+      "programslug": "formiddagip4norrbotten",
+      "programimage": "https://static-cdn.sr.se/images/275/02c49dea-aab0-4f40-9053-b4d50cf4b5d0.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/275/02c49dea-aab0-4f40-9053-b4d50cf4b5d0.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/275/36011e3e-fd43-4e9c-90a3-9bfc1c5670a7.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/275/36011e3e-fd43-4e9c-90a3-9bfc1c5670a7.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/275/02c49dea-aab0-4f40-9053-b4d50cf4b5d0.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/275/02c49dea-aab0-4f40-9053-b4d50cf4b5d0.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4norrbotten"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4norrbotten/"
+        }
+      ],
+      "channel": {
+        "id": 209,
+        "name": "P4 Norrbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Armi Rousu",
+      "id": 275,
+      "name": "Förmiddag i P4 Norrbotten"
+    },
+    {
+      "description": "Aktualitetsmagasin med gäster och direktsändningar från hela Norrbotten.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Vardagar kl 15.00–17.10",
+      "email": "p4norrbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=276",
+      "programslug": "eftermiddagip4norrbotten",
+      "programimage": "https://static-cdn.sr.se/images/276/ba2894b7-0164-4558-9ff3-818d0202748d.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/276/ba2894b7-0164-4558-9ff3-818d0202748d.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/276/e7084dc6-5ef3-4ff8-bb51-33ca18b606c3.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/276/e7084dc6-5ef3-4ff8-bb51-33ca18b606c3.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/276/ba2894b7-0164-4558-9ff3-818d0202748d.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/276/ba2894b7-0164-4558-9ff3-818d0202748d.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4norrbotten"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4norrbotten/"
+        }
+      ],
+      "channel": {
+        "id": 209,
+        "name": "P4 Norrbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Armi Rousu",
+      "id": 276,
+      "name": "Eftermiddag i P4 Norrbotten"
+    },
+    {
+      "description": "Förmiddagen i P4 Gävleborg utmanar och underhåller med röster både från din och andras vardag och musiken du känner igen.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag-Torsdag kl 09.40-13.00",
+      "email": "p4gavleborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/avsnitt?programid=282",
+      "programslug": "formiddagip4gavleborg",
+      "programimage": "https://static-cdn.sr.se/images/282/3648080_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/282/3648080_1400_1400.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/282/3648079_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/282/3648079_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/282/3648080_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/282/3648080_1400_1400.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4gavleborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4gavleborg/"
+        }
+      ],
+      "channel": {
+        "id": 210,
+        "name": "P4 Gävleborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Staffan Mälstam",
+      "id": 282,
+      "name": "Förmiddag i P4 Gävleborg"
+    },
+    {
+      "description": "Vi är ditt sällskap på förmiddagarna och ger dig koll på vad som händer i länet, landet och världen.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "10.00 - 13.00",
+      "email": "p4vasterbotten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=284",
+      "programslug": "formiddagip4vasterbotten",
+      "programimage": "https://static-cdn.sr.se/images/284/6f22ae68-b9e1-4f58-94ec-8ddb41e22b88.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/284/6f22ae68-b9e1-4f58-94ec-8ddb41e22b88.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/284/6319bfa4-6fc3-40fd-8f16-9bb4c9e23114.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/284/6319bfa4-6fc3-40fd-8f16-9bb4c9e23114.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/284/6f22ae68-b9e1-4f58-94ec-8ddb41e22b88.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/284/6f22ae68-b9e1-4f58-94ec-8ddb41e22b88.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4vasterbotten"
+        }
+      ],
+      "channel": {
+        "id": 215,
+        "name": "P4 Västerbotten"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Anders Bäckström",
+      "id": 284,
+      "name": "Förmiddag i P4 Västerbotten"
+    },
+    {
+      "description": "I P4 Sörmland hör du det senaste som händer i länet. Du får aktuella intervjuer, trafik och väder blandat med musik.",
+      "broadcastinfo": "Varje vardag kl 05.59-10.00",
+      "email": "p4sormland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=312",
+      "programslug": "morgonip4sormland",
+      "programimage": "https://static-cdn.sr.se/images/312/e2cef74d-d819-4fd5-ac69-637203306d46.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/312/e2cef74d-d819-4fd5-ac69-637203306d46.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/312/ad65fece-df97-43e6-9bc7-f84871b64161.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/312/ad65fece-df97-43e6-9bc7-f84871b64161.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/312/e2cef74d-d819-4fd5-ac69-637203306d46.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/312/e2cef74d-d819-4fd5-ac69-637203306d46.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4sormland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4sormland/"
+        }
+      ],
+      "channel": {
+        "id": 202,
+        "name": "P4 Sörmland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Robin Gustafsson",
+      "id": 312,
+      "name": "Morgon i P4 Sörmland"
+    },
+    {
+      "description": "I Eftermiddagsprogrammet får du dagens viktigaste nyhetshändelser – på ett nytt sätt, alltid på plats och med blicken framåt.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag-Torsdag kl 15.00-17.34",
+      "email": "p4gavleborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=318",
+      "programslug": "eftermiddagip4gavleborg",
+      "programimage": "https://static-cdn.sr.se/images/318/3648082_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/318/3648082_1400_1400.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/318/3648081_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/318/3648081_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/318/3648082_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/318/3648082_1400_1400.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4gavleborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4gavleborg/"
+        }
+      ],
+      "channel": {
+        "id": 210,
+        "name": "P4 Gävleborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Staffan Mälstam",
+      "id": 318,
+      "name": "Eftermiddag i P4 Gävleborg"
+    },
+    {
+      "description": "Radioshow på morgonen i P4 Uppland Sveriges Radio. Nyheter, aktuella gäster och samtalsämnen.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "måndag-fredag kl 05.59-10.00",
+      "email": "p4uppland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=323",
+      "programslug": "morgonip4uppland",
+      "programimage": "https://static-cdn.sr.se/images/323/5475b7ea-51fd-4e30-8e00-64a5ae88523c.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/323/5475b7ea-51fd-4e30-8e00-64a5ae88523c.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/323/afce4cc3-f2b5-4b67-b4f6-97a0b59942ff.png?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/323/afce4cc3-f2b5-4b67-b4f6-97a0b59942ff.png",
+      "socialimage": "https://static-cdn.sr.se/images/323/5475b7ea-51fd-4e30-8e00-64a5ae88523c.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/323/5475b7ea-51fd-4e30-8e00-64a5ae88523c.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Uppland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4uppland/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4uppland/"
+        }
+      ],
+      "channel": {
+        "id": 218,
+        "name": "P4 Uppland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Markus Boger",
+      "id": 323,
+      "name": "Morgon i P4 Uppland"
+    },
+    {
+      "description": "Vi väcker Skaraborg med ett leende.",
+      "broadcastinfo": "Måndag - fredag kl 5.59 - 9.30",
+      "email": "p4.skaraborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=344",
+      "programslug": "morgonip4skaraborg",
+      "programimage": "https://static-cdn.sr.se/images/344/68230c23-514d-49bc-9bc9-df1f585c973d.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/344/68230c23-514d-49bc-9bc9-df1f585c973d.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/344/4a027d04-4571-4a8d-a366-abd6a28f56f1.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/344/4a027d04-4571-4a8d-a366-abd6a28f56f1.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/344/68230c23-514d-49bc-9bc9-df1f585c973d.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/344/68230c23-514d-49bc-9bc9-df1f585c973d.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Skaraborg"
+        }
+      ],
+      "channel": {
+        "id": 208,
+        "name": "P4 Skaraborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Linnéa Frimodig",
+      "id": 344,
+      "name": "Morgon i P4 Skaraborg"
+    },
+    {
+      "description": "Vi är ditt eftermiddagssällskap. Här hör du om dagens viktigaste händelser, nyheter och så håller vi koll på läget i trafiken.  Hör av dig: p4malmohus@sverigesradio.se",
+      "broadcastinfo": "Vardagar 14.59–17.34",
+      "email": "p4malmohus@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=353",
+      "programslug": "eftermiddagip4malmohus",
+      "programimage": "https://static-cdn.sr.se/images/353/51c152b5-1a34-4cf6-b686-d49ed41d767d.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/353/51c152b5-1a34-4cf6-b686-d49ed41d767d.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/353/5e619482-3d8a-4aae-8ac8-b7d21c8545c0.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/353/5e619482-3d8a-4aae-8ac8-b7d21c8545c0.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/353/51c152b5-1a34-4cf6-b686-d49ed41d767d.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/353/51c152b5-1a34-4cf6-b686-d49ed41d767d.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4malmohus"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4malmohus/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4malmohus/"
+        }
+      ],
+      "channel": {
+        "id": 207,
+        "name": "P4 Malmöhus"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Karolin Johansson",
+      "id": 353,
+      "name": "Eftermiddag i P4 Malmöhus"
+    },
+    {
+      "description": "Sänder mitt i din vardag.",
+      "broadcastinfo": "Måndag - fredag kl 9.32-13.00",
+      "email": "p4.skaraborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=358",
+      "programslug": "formiddagip4skaraborg",
+      "programimage": "https://static-cdn.sr.se/images/358/1d439ff9-5fde-4208-8a9a-9a1005bec02a.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/358/1d439ff9-5fde-4208-8a9a-9a1005bec02a.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/358/2e4f8ccb-eccf-41a0-91bf-d54c8dd1c182.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/358/2e4f8ccb-eccf-41a0-91bf-d54c8dd1c182.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/358/1d439ff9-5fde-4208-8a9a-9a1005bec02a.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/358/1d439ff9-5fde-4208-8a9a-9a1005bec02a.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Skaraborg"
+        }
+      ],
+      "channel": {
+        "id": 208,
+        "name": "P4 Skaraborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Linnéa Frimodig",
+      "id": 358,
+      "name": "Förmiddag i P4 Skaraborg"
+    },
+    {
+      "description": "Vi är med dig på väg hem.",
+      "broadcastinfo": "Måndag - fredag, 15.03 - 17.34",
+      "email": "p4.skaraborg@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=399",
+      "programslug": "eftermiddagip4skaraborg",
+      "programimage": "https://static-cdn.sr.se/images/399/bb38a5ea-4d18-43b8-a738-102004558f01.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/399/bb38a5ea-4d18-43b8-a738-102004558f01.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/399/f0350963-52f3-4207-aac8-55181c49fcc3.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/399/f0350963-52f3-4207-aac8-55181c49fcc3.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/399/bb38a5ea-4d18-43b8-a738-102004558f01.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/399/bb38a5ea-4d18-43b8-a738-102004558f01.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Skaraborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4Skaraborg/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/P4skaraborg_/"
+        }
+      ],
+      "channel": {
+        "id": 208,
+        "name": "P4 Skaraborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Linnéa Frimodig",
+      "id": 399,
+      "name": "Eftermiddag i P4 Skaraborg"
+    },
+    {
+      "description": "Få dagliga vetenskapsnyheter om den senaste forskningen och hur den påverkar dig – med Vetenskapsradion nyheter i Sveriges Radio P1.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "broadcastinfo": "I Sveriges Radio P1 kl 06.34, 07.36, 08.36",
+      "email": "vet@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=406",
+      "programslug": "vetenskapsradionnyheter",
+      "programimage": "https://static-cdn.sr.se/images/406/dc008a7c-9081-4d3b-b761-7a194ee2a0ba.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/406/dc008a7c-9081-4d3b-b761-7a194ee2a0ba.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/406/94b36308-3470-444c-8a50-45f207a15acf.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/406/94b36308-3470-444c-8a50-45f207a15acf.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/406/dc008a7c-9081-4d3b-b761-7a194ee2a0ba.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/406/dc008a7c-9081-4d3b-b761-7a194ee2a0ba.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Vetenskapsradion"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/Vetenskapsradion/"
+        }
+      ],
+      "channel": {
+        "id": 406,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Magnus Gylje",
+      "id": 406,
+      "name": "Vetenskapsradion Nyheter"
+    },
+    {
+      "description": "Vi är där historien är.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "broadcastinfo": "Tisdag 14.04",
+      "email": "historia@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=407",
+      "programslug": "vetenskapsradionhistoria",
+      "programimage": "https://static-cdn.sr.se/images/407/5b1f0fa9-99aa-4700-9995-04906de15ba1.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/407/5b1f0fa9-99aa-4700-9995-04906de15ba1.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/407/79b6db05-94ab-44e1-8d13-447d5601e875.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/407/79b6db05-94ab-44e1-8d13-447d5601e875.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/407/5b1f0fa9-99aa-4700-9995-04906de15ba1.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/407/5b1f0fa9-99aa-4700-9995-04906de15ba1.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Vetenskapsradion"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/srvetenskap/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Mark Malmström Fast",
+      "id": 407,
+      "name": "Vetenskapsradion Historia"
+    },
+    {
+      "description": "Ett program om hur språk används och förändras. Här kan du som lyssnare ställa dina språkfrågor. Programledare Emmy Rasper.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "broadcastinfo": "Måndag 18.05 med repris torsdag 14.30. Podden släpps måndag 05.00",
+      "email": "spraket@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=411",
+      "programslug": "spraket",
+      "programimage": "https://static-cdn.sr.se/images/411/50975663-27e5-4bde-bab7-9e952808807b.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/411/50975663-27e5-4bde-bab7-9e952808807b.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/411/5a7c1edd-1e07-48e9-a2c4-b97140ae7222.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/411/5a7c1edd-1e07-48e9-a2c4-b97140ae7222.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/411/50975663-27e5-4bde-bab7-9e952808807b.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/411/50975663-27e5-4bde-bab7-9e952808807b.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Spraketip1"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Sabina Schatzl",
+      "id": 411,
+      "name": "Språket"
+    },
+    {
+      "description": "Upptäck ny forskning och fascinerade program om vetenskap med Sveriges Radios skarpaste vetenskapsjournalister. 20 minuter – varje vardag.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "payoff": "Upptäck ny forskning och fascinerade program om vetenskap med Sveriges Radios skarpaste vetenskapsjournalister. 20 minuter – varje vardag.",
+      "broadcastinfo": "Måndag-fredag 12.09",
+      "email": "vet@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=412",
+      "programslug": "vetenskapsradion",
+      "programimage": "https://static-cdn.sr.se/images/412/b338a260-f6d9-465f-8098-2c86386e7615.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/412/b338a260-f6d9-465f-8098-2c86386e7615.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/412/bec0182b-0d5e-4b1c-ba8a-cd19453e010a.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/412/bec0182b-0d5e-4b1c-ba8a-cd19453e010a.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/412/b338a260-f6d9-465f-8098-2c86386e7615.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/412/b338a260-f6d9-465f-8098-2c86386e7615.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Vetenskapsradion"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/Vetenskapsradion/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Magnus Gylje",
+      "id": 412,
+      "name": "Vetenskapsradion "
+    },
+    {
+      "description": "Nu går vi vidare med Vetenskapspodden på den här sändningstiden. Veckomagasinet slutar. Tack för alla år som lyssnare! (Januari 2020)",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "broadcastinfo": "Sänds inte längre",
+      "email": "vet@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=415",
+      "programslug": "vetenskapsradionsveckomagasin",
+      "programimage": "https://static-cdn.sr.se/images/415/567d747b-b6b5-4a5d-9d2b-06483bd91a23.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/415/567d747b-b6b5-4a5d-9d2b-06483bd91a23.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/415/276f22d6-8900-4ac3-85c8-a1d42f2c0e52.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/415/276f22d6-8900-4ac3-85c8-a1d42f2c0e52.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/415/567d747b-b6b5-4a5d-9d2b-06483bd91a23.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/415/567d747b-b6b5-4a5d-9d2b-06483bd91a23.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/Vetenskapsradion#!/Vetenskapsradion"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/srvetenskap/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Magnus Gylje",
+      "id": 415,
+      "name": "ARKIV: Vetenskapsradions veckomagasin"
+    },
+    {
+      "description": "Människor och tro är P1:s livsåskådningsprogram om religion, identitet och politik.",
+      "programcategory": {
+        "id": 4,
+        "name": "Livsåskådning"
+      },
+      "payoff": "Livsåskådningsprogrammet i P1 om religion, identitet och politik.",
+      "broadcastinfo": " ",
+      "email": " ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=416",
+      "programslug": "manniskorochtro",
+      "programimage": "https://static-cdn.sr.se/images/416/e318504b-5356-4f88-b095-0dc31e54ac29.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/416/e318504b-5356-4f88-b095-0dc31e54ac29.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/416/f061092d-2d9d-41a6-8172-38be4553e2a7.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/416/f061092d-2d9d-41a6-8172-38be4553e2a7.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/416/e318504b-5356-4f88-b095-0dc31e54ac29.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/416/e318504b-5356-4f88-b095-0dc31e54ac29.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": ""
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Karin Lindblom",
+      "id": 416,
+      "name": "Människor och tro"
+    },
+    {
+      "description": "Med senaste nytt, aktualiteter, sport, kultur, nöje, fördjupning och debatt.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag - fredag, kl 15.03 - 17.45",
+      "email": "p4jamtland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=427",
+      "programslug": "eftermiddagip4jamtland",
+      "programimage": "https://static-cdn.sr.se/images/427/6f04a0bb-06d9-46ac-acb2-1297c7965e3e.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/427/6f04a0bb-06d9-46ac-acb2-1297c7965e3e.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/427/fd61b63e-a27c-4ad7-a994-67ca1501bb85.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/427/fd61b63e-a27c-4ad7-a994-67ca1501bb85.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/427/6f04a0bb-06d9-46ac-acb2-1297c7965e3e.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/427/6f04a0bb-06d9-46ac-acb2-1297c7965e3e.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P4Jamtland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4jamtland/"
+        }
+      ],
+      "channel": {
+        "id": 200,
+        "name": "P4 Jämtland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Olof Ekerlid",
+      "id": 427,
+      "name": "Eftermiddag i P4 Jämtland"
+    },
+    {
+      "description": "P1:s veckomagasin om Sverige och världen – politik, trender och analyser.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "broadcastinfo": "Söndag 09.03",
+      "email": "gmv@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=438",
+      "programslug": "godmorgon-varlden",
+      "programimage": "https://static-cdn.sr.se/images/438/4d4f6cf1-f649-4cce-b464-0744fa8ff9dc.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/438/4d4f6cf1-f649-4cce-b464-0744fa8ff9dc.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/438/b4cd6e3f-3893-4eb5-b339-067c1a6c590e.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/438/b4cd6e3f-3893-4eb5-b339-067c1a6c590e.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/438/4d4f6cf1-f649-4cce-b464-0744fa8ff9dc.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/438/4d4f6cf1-f649-4cce-b464-0744fa8ff9dc.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/srekot"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Klas Wolf-Watz",
+      "id": 438,
+      "name": "Godmorgon världen"
+    },
+    {
+      "description": "Vakna på rätt sida. Vakna uppdaterad med Östergötlands största morgonprogram",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag-fredag kl 06.00-10.00",
+      "email": "p4ostergotland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=442",
+      "programslug": "morgonip4ostergotland",
+      "programimage": "https://static-cdn.sr.se/images/442/3389000_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/442/3389000_1400_1400.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/442/3388995_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/442/3388995_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/442/3389000_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/442/3389000_1400_1400.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/srostergotland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4ostergotland/"
+        }
+      ],
+      "channel": {
+        "id": 222,
+        "name": "P4 Östergötland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Sofie Lycksell",
+      "id": 442,
+      "name": "Morgon i P4 Östergötland"
+    },
+    {
+      "description": "Nyheter från kulturredaktionen, med reportage, nyheter och recensioner.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Kulturnytt sänder i P1, P2 och P4 måndag–fredag. P1 Kultur sänder i P1 tisdag–fredag 13.00.",
+      "email": "kulturnytt@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=478",
+      "programslug": "kulturnytt",
+      "programimage": "https://static-cdn.sr.se/images/478/c3200f61-32a6-4988-a5a6-14840962e0cf.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/478/c3200f61-32a6-4988-a5a6-14840962e0cf.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/478/ed85e444-eaa8-4a3e-b364-e54ac4beb7ed.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/478/ed85e444-eaa8-4a3e-b364-e54ac4beb7ed.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/478/c3200f61-32a6-4988-a5a6-14840962e0cf.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/478/c3200f61-32a6-4988-a5a6-14840962e0cf.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/kulturnytt"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/SR_Kultur/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/SR_Kultur/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 478,
+      "name": "Kulturnytt"
+    },
+    {
+      "description": "Hör de breda, folkkära artisterna, liksom smalare. Svenskt blandas med internationella stjärnor.",
+      "programcategory": {
+        "id": 5,
+        "name": "Musik"
+      },
+      "broadcastinfo": "Fredagar 19.06 - 20.40",
+      "email": "anders.jernquist@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=488",
+      "programslug": "p4-live",
+      "programimage": "https://static-cdn.sr.se/images/488/ae9cd261-f3dd-4388-a157-99a0f51aa57f.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/488/ae9cd261-f3dd-4388-a157-99a0f51aa57f.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/488/a0eb8f78-b299-426e-8cfa-eccfab64b809.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/488/a0eb8f78-b299-426e-8cfa-eccfab64b809.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/488/ae9cd261-f3dd-4388-a157-99a0f51aa57f.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/488/ae9cd261-f3dd-4388-a157-99a0f51aa57f.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": ""
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com//"
+        }
+      ],
+      "channel": {
+        "id": 158,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Anna-Karin Larsson",
+      "id": 488,
+      "name": "P4 Live"
+    },
+    {
+      "description": "Nyheter på ett lite lugnare sätt och med enkla ord. Senaste avsnittet finns alltid här klockan sju och klockan nio varje vardag.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "",
+      "broadcastinfo": "Vardagar i P4 18.55-19.00 och i P1 20.55-21.00 ",
+      "email": "klartext@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=493",
+      "programslug": "klartext",
+      "programimage": "https://static-cdn.sr.se/images/493/8b47b6f2-cb4d-40a6-a37f-8544eb0d8c03.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/493/8b47b6f2-cb4d-40a6-a37f-8544eb0d8c03.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/493/8dc1fbbe-5d10-4a2b-9408-e5d206d5149a.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/493/8dc1fbbe-5d10-4a2b-9408-e5d206d5149a.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/493/8b47b6f2-cb4d-40a6-a37f-8544eb0d8c03.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/493/8b47b6f2-cb4d-40a6-a37f-8544eb0d8c03.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/groups/200980210331897"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/klartext/"
+        }
+      ],
+      "channel": {
+        "id": 158,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Ola Finell",
+      "id": 493,
+      "name": "Klartext – nyheter på ett enklare sätt"
+    },
+    {
+      "description": "Ett forum för den talade kulturessän där samtidens och historiens idéer prövas och möts.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "payoff": "‎–‎ radioessäer",
+      "broadcastinfo": "Sänds måndagar 13.45 (repris lördag 01.50) samt som en del av P1 kultur tis-tors kl 13.00. ",
+      "email": "obs@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/avsnitt?programid=503",
+      "programslug": "obs",
+      "programimage": "https://static-cdn.sr.se/images/503/3631103_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/503/3631103_1400_1400.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/503/3631102_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/503/3631102_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/503/3631103_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/503/3631103_1400_1400.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/pages/OBS-P1/151720683590"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 503,
+      "name": "OBS: Radioessän"
+    },
+    {
+      "description": "Nyheter och aktualiteter från Östergötland",
+      "programcategory": {
+        "id": 7,
+        "name": "Samhälle"
+      },
+      "broadcastinfo": "Måndag-fredag kl15.00-17.35",
+      "email": "p4ostergotland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=504",
+      "programslug": "eftermiddagip4ostergotland",
+      "programimage": "https://static-cdn.sr.se/images/504/3389020_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/504/3389020_1400_1400.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/504/3389018_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/504/3389018_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/504/3389020_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/504/3389020_1400_1400.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/srostergotland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4ostergotland/"
+        }
+      ],
+      "channel": {
+        "id": 222,
+        "name": "P4 Östergötland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Petter Ahnoff",
+      "id": 504,
+      "name": "Eftermiddag i P4 Östergötland"
+    },
+    {
+      "description": "Här pratar vi om dagens aktuella ämnen från hela Örebro län tillsammans med dig. Programledare är Päivi Kotka och Emilie Pless.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Varje vardag mellan 9.30 och 13.00. ",
+      "email": "p4orebro@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=507",
+      "programslug": "formiddagip4orebro",
+      "programimage": "https://static-cdn.sr.se/images/507/7ecc45d6-b75a-48f8-a6cc-ffc5e6c547bf.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/507/7ecc45d6-b75a-48f8-a6cc-ffc5e6c547bf.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/507/d6cb6f9a-f8a9-46b5-801c-aafe737d182b.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/507/d6cb6f9a-f8a9-46b5-801c-aafe737d182b.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/507/7ecc45d6-b75a-48f8-a6cc-ffc5e6c547bf.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/507/7ecc45d6-b75a-48f8-a6cc-ffc5e6c547bf.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/SRP4orebro"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4Orebro/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4orebro/"
+        }
+      ],
+      "channel": {
+        "id": 221,
+        "name": "P4 Örebro"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Anna Holm",
+      "id": 507,
+      "name": "Förmiddag i P4 Örebro "
+    },
+    {
+      "description": "Här får du höra direkt om det senaste som händer i Örebro län, Sverige och världen. Programledare är Arne Holmberg och Lisa Hammar.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag–fredag med start kl 15.00",
+      "email": "p4orebro@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=509",
+      "programslug": "eftermiddagip4orebro",
+      "programimage": "https://static-cdn.sr.se/images/509/e13f07da-6470-46f8-8c21-f3baddf3d9c3.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/509/e13f07da-6470-46f8-8c21-f3baddf3d9c3.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/509/d0726d78-102e-4646-abee-e4e4ed250fac.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/509/d0726d78-102e-4646-abee-e4e4ed250fac.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/509/e13f07da-6470-46f8-8c21-f3baddf3d9c3.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/509/e13f07da-6470-46f8-8c21-f3baddf3d9c3.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/SRP4orebro"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4Orebro/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4orebro/"
+        }
+      ],
+      "channel": {
+        "id": 221,
+        "name": "P4 Örebro"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Anna Holm",
+      "id": 509,
+      "name": "Eftermiddag i P4 Örebro"
+    },
+    {
+      "description": "Samhällsspaning med humor och glimten i ögat. Tre skarpsynta personligheter tolkar tecken i tiden och ger oss sina personliga visioner om framtiden.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Fredag 15.04. Lördag 09.03.",
+      "email": "spanarna@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=516",
+      "programslug": "spanarna",
+      "programimage": "https://static-cdn.sr.se/images/516/b40eb33c-5540-45db-bc99-6654038c8583.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/516/b40eb33c-5540-45db-bc99-6654038c8583.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/516/a6c1369e-05ad-469f-ac29-dc17bc22b7b5.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/516/a6c1369e-05ad-469f-ac29-dc17bc22b7b5.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/516/b40eb33c-5540-45db-bc99-6654038c8583.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/516/b40eb33c-5540-45db-bc99-6654038c8583.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/SpanarnaiP1/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradiop1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 516,
+      "name": "Spanarna"
+    },
+    {
+      "description": "Morgonen ger dig koll på vad som händer i Blekinge. Varje dag mellan 06 och 10:00.\n",
+      "broadcastinfo": "Varje vardag kl. 06.10-10:00",
+      "email": "morgonen.blekinge@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=519",
+      "programslug": "morgonip4blekinge",
+      "programimage": "https://static-cdn.sr.se/images/519/c5915387-ef01-4bd5-bb7e-0c01eedf2799.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/519/c5915387-ef01-4bd5-bb7e-0c01eedf2799.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/519/488a9667-cf14-4bcf-931d-ed5d30fcea8d.png?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/519/488a9667-cf14-4bcf-931d-ed5d30fcea8d.png",
+      "socialimage": "https://static-cdn.sr.se/images/519/c5915387-ef01-4bd5-bb7e-0c01eedf2799.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/519/c5915387-ef01-4bd5-bb7e-0c01eedf2799.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradioblekinge"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4blekinge/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/P4blekinge/"
+        }
+      ],
+      "channel": {
+        "id": 213,
+        "name": "P4 Blekinge"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Peppe Alfiero",
+      "id": 519,
+      "name": "Morgon i P4 Blekinge"
+    },
+    {
+      "description": "I Förmiddag tar vi upp allt från samhällsfrågor till ny musik. Häng med!",
+      "broadcastinfo": "Varje vardag kl. 10.15-12.00",
+      "email": "formiddagen@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=730",
+      "programslug": "formiddagip4blekinge",
+      "programimage": "https://static-cdn.sr.se/images/730/88d36ae3-6b49-4b1f-81e0-2a87cc1f15af.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/730/88d36ae3-6b49-4b1f-81e0-2a87cc1f15af.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/730/5f0eeb83-eefc-4e8b-9875-afc4f850a78d.png?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/730/5f0eeb83-eefc-4e8b-9875-afc4f850a78d.png",
+      "socialimage": "https://static-cdn.sr.se/images/730/88d36ae3-6b49-4b1f-81e0-2a87cc1f15af.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/730/88d36ae3-6b49-4b1f-81e0-2a87cc1f15af.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradioblekinge"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4Blekinge/"
+        }
+      ],
+      "channel": {
+        "id": 213,
+        "name": "P4 Blekinge"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Peppe Alfiero",
+      "id": 730,
+      "name": "Förmiddag i P4 Blekinge"
+    },
+    {
+      "description": "Starta morgonen på det bästa sättet: tillsammans med oss! Nyheter från länet, världen och Stockholmstrafiken.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Vardagar från 05.59",
+      "email": "p4stockholm@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=739",
+      "programslug": "morgonip4stockholm",
+      "programimage": "https://static-cdn.sr.se/images/739/394f2c9c-206c-450f-a985-beefa73967df.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/739/394f2c9c-206c-450f-a985-beefa73967df.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/739/88e17c5e-61fb-4f41-807d-6a7614c99647.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/739/88e17c5e-61fb-4f41-807d-6a7614c99647.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/739/394f2c9c-206c-450f-a985-beefa73967df.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/739/394f2c9c-206c-450f-a985-beefa73967df.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4stockholm/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/P4Stockholm/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4stockholm/"
+        }
+      ],
+      "channel": {
+        "id": 701,
+        "name": "P4 Stockholm"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Alisa Bosnic",
+      "id": 739,
+      "name": "Morgon i P4 Stockholm"
+    },
+    {
+      "description": "Samtal med författare skådespelare dansare musiker tecknare fotografer och andra konstutövare",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Sidan uppdateras inte. ",
+      "email": "bjorn.jansson@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=745",
+      "programimage": "https://static-cdn.sr.se/images/745/2598310_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/745/2598310_512_512.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/745/2598316_176_132.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/745/2598316_176_132.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/745/2598310_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/745/2598310_512_512.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": ""
+        }
+      ],
+      "channel": {
+        "id": 701,
+        "name": "P4 Stockholm"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Lotta Mossberg",
+      "id": 745,
+      "name": "P4 Mötet"
+    },
+    {
+      "description": "Livekonserter och artistintervjuer med fokus på Stockholmsscenen.",
+      "programcategory": {
+        "id": 5,
+        "name": "Musik"
+      },
+      "broadcastinfo": "Fredagar kl. 11-13",
+      "email": "p4stockholm@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=746",
+      "programslug": "musikplatsstockholm",
+      "programimage": "https://static-cdn.sr.se/images/746/6aac823b-d537-4907-a041-8e966c4e4b9a.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/746/6aac823b-d537-4907-a041-8e966c4e4b9a.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/746/6e40f5b4-4f7b-4823-874a-ef02a93ed7dc.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/746/6e40f5b4-4f7b-4823-874a-ef02a93ed7dc.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/746/6aac823b-d537-4907-a041-8e966c4e4b9a.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/746/6aac823b-d537-4907-a041-8e966c4e4b9a.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/musikplatsstockholm/"
+        }
+      ],
+      "channel": {
+        "id": 701,
+        "name": "P4 Stockholm"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Mats Rundbladh",
+      "id": 746,
+      "name": "Musikplats Stockholm"
+    },
+    {
+      "description": "Reportage från kulturredaktionen P1 som introducerar, fördjupar och analyserar. ",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "payoff": "Reportage från kulturredaktionen P1 som introducerar, fördjupar och analyserar. ",
+      "broadcastinfo": "P1 Kultur sänds måndag till fredag klockan 13-14",
+      "email": "p1kultur@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=767",
+      "programslug": "kulturpoddarip1",
+      "programimage": "https://static-cdn.sr.se/images/767/d37572c6-b58f-4046-bff6-629fb6fbf14c.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/767/d37572c6-b58f-4046-bff6-629fb6fbf14c.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/767/c5ef0e0a-2117-4de1-ae35-ad3ab0485a59.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/767/c5ef0e0a-2117-4de1-ae35-ad3ab0485a59.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/767/d37572c6-b58f-4046-bff6-629fb6fbf14c.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/767/d37572c6-b58f-4046-bff6-629fb6fbf14c.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/kulturnytt"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/SR_Kultur/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/SR_Kultur/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 767,
+      "name": "P1 Kultur Reportage"
+    },
+    {
+      "description": "Starta dagen med P4 Morgon och morgonens viktigaste händelser, både lokalt och från hela världen.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Måndag-Fredag kl 06.00-09.40",
+      "email": "p4gavleborg@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=786",
+      "programslug": "morgonip4gavleborg",
+      "programimage": "https://static-cdn.sr.se/images/786/3648072_1400_1400.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/786/3648072_1400_1400.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/786/3648071_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/786/3648071_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/786/3648072_1400_1400.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/786/3648072_1400_1400.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4gavleborg"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4gavleborg/"
+        }
+      ],
+      "channel": {
+        "id": 210,
+        "name": "P4 Gävleborg"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Staffan Mälstam",
+      "id": 786,
+      "name": "Morgon i P4 Gävleborg"
+    },
+    {
+      "description": "I Filosofiska rummet diskuterar vi filosofi, etik och politik.",
+      "programcategory": {
+        "id": 7,
+        "name": "Samhälle"
+      },
+      "payoff": "Trekvart om människan, etiken och existensen",
+      "broadcastinfo": "Poddsläpp lördag 06.00, FM-sändning söndag 17.00",
+      "email": "filosofiskarummet@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=793",
+      "programslug": "filosofiskarummet",
+      "programimage": "https://static-cdn.sr.se/images/793/587f7185-a72a-4d47-88fd-c53492cad714.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/793/587f7185-a72a-4d47-88fd-c53492cad714.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/793/86eea0bf-1f2e-4479-9c44-27e874d1c68d.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/793/86eea0bf-1f2e-4479-9c44-27e874d1c68d.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/793/587f7185-a72a-4d47-88fd-c53492cad714.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/793/587f7185-a72a-4d47-88fd-c53492cad714.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiop1"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 793,
+      "name": "Filosofiska rummet"
+    },
+    {
+      "description": "Berättelser från verkligheten.",
+      "programcategory": {
+        "id": 82,
+        "name": "Dokumentär"
+      },
+      "broadcastinfo": "Podden släpps kl 06 på fredagar. Sänds Söndag 15.03 i P1. Repris lördag 20.03",
+      "email": "dokred@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=909",
+      "programslug": "p1dokumentar",
+      "programimage": "https://static-cdn.sr.se/images/909/4e67da1d-c7c3-45fa-9fb2-d9ba296f01d3.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/909/4e67da1d-c7c3-45fa-9fb2-d9ba296f01d3.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/909/5c6f3227-ea48-4eca-ae15-a8f65ead3c14.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/909/5c6f3227-ea48-4eca-ae15-a8f65ead3c14.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/909/4e67da1d-c7c3-45fa-9fb2-d9ba296f01d3.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/909/4e67da1d-c7c3-45fa-9fb2-d9ba296f01d3.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/P1Dokumentar"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p1dokumentar/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Emma Boëthius",
+      "id": 909,
+      "name": "P1 Dokumentär"
+    },
+    {
+      "description": "Kristna gudstjänster från olika kyrkor och samfund runt om i landet. Även religionsmöten eller samtalsgudstjänster om livets stora frågor.",
+      "programcategory": {
+        "id": 4,
+        "name": "Livsåskådning"
+      },
+      "broadcastinfo": "Söndag 11.03 och flera större helger",
+      "email": "liv@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=945",
+      "programslug": "gudstjansten",
+      "programimage": "https://static-cdn.sr.se/images/945/a2c8e43e-a28e-45fa-8fd3-070375d99753.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/945/a2c8e43e-a28e-45fa-8fd3-070375d99753.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/945/e4594f6a-8aaf-4b8c-b27d-48fd84240aae.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/945/e4594f6a-8aaf-4b8c-b27d-48fd84240aae.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/945/a2c8e43e-a28e-45fa-8fd3-070375d99753.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/945/a2c8e43e-a28e-45fa-8fd3-070375d99753.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/liviP1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Sabina Schatzl",
+      "id": 945,
+      "name": "Gudstjänsten"
+    },
+    {
+      "description": "Sveriges Radios matprogram som tittar djupt i grytorna.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Torsdag 11.04, repris fredag 01.02",
+      "email": "meny@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=950",
+      "programslug": "meny",
+      "programimage": "https://static-cdn.sr.se/images/950/8b121bb8-f21f-49ec-bc20-081cb899d133.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/950/8b121bb8-f21f-49ec-bc20-081cb899d133.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/950/c94cd8c8-4731-4d0e-adc8-358ff716079b.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/950/c94cd8c8-4731-4d0e-adc8-358ff716079b.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/950/8b121bb8-f21f-49ec-bc20-081cb899d133.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/950/8b121bb8-f21f-49ec-bc20-081cb899d133.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiop1/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/menyip1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Caroline Sazinger",
+      "id": 950,
+      "name": "Meny "
+    },
+    {
+      "description": "Vakna till skön musik, senaste nytt, de aktuella personerna och få med dig dagens snackämnen i P4 Väst varje vardagmorgon.",
+      "payoff": "",
+      "broadcastinfo": "Programmet sänds vardagar",
+      "email": "nyheter.vast@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=972",
+      "programslug": "morgonip4vast",
+      "programimage": "https://static-cdn.sr.se/images/972/8e23b03f-b79c-4636-b01b-7282776ae3bc.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/972/8e23b03f-b79c-4636-b01b-7282776ae3bc.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/972/dd6b4b1a-2097-4b5e-8956-84eef501be33.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/972/dd6b4b1a-2097-4b5e-8956-84eef501be33.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/972/8e23b03f-b79c-4636-b01b-7282776ae3bc.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/972/8e23b03f-b79c-4636-b01b-7282776ae3bc.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4vast"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p4vast/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4vast/"
+        }
+      ],
+      "channel": {
+        "id": 219,
+        "name": "P4 Väst"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Peter Sundblad",
+      "id": 972,
+      "name": "Morgon i P4 Väst"
+    },
+    {
+      "description": "Tauotonta musiikkia, sekä uutuuksia että klassikoita.",
+      "programcategory": {
+        "id": 5,
+        "name": "Musik"
+      },
+      "payoff": "",
+      "email": "finskamusikredaktorer@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=989",
+      "programslug": "musiikkia",
+      "programimage": "https://static-cdn.sr.se/images/989/9c74d04a-7c04-4a8b-adb0-87196768be4d.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/989/9c74d04a-7c04-4a8b-adb0-87196768be4d.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/989/3ca52ace-e1d5-4a6f-b587-389caec6f8aa.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/989/3ca52ace-e1d5-4a6f-b587-389caec6f8aa.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/989/9c74d04a-7c04-4a8b-adb0-87196768be4d.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/989/9c74d04a-7c04-4a8b-adb0-87196768be4d.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiofinska"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradiofinska/"
+        }
+      ],
+      "channel": {
+        "id": 226,
+        "name": "Sveriges Radio Finska"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Helena Huhta Hermans",
+      "id": 989,
+      "name": "Musiikkia"
+    },
+    {
+      "description": "Rajatonta ja ihmisläheistä raatiota meänkielelä. / Gränslös och vardagsnära radio på meänkieli.",
+      "programcategory": {
+        "id": 11,
+        "name": "News in other languages"
+      },
+      "broadcastinfo": "Maanantai-tuorestai 17.10-18.00, pyhäpäivä/sunnuntai 8.30-10.00",
+      "email": "meanraatio@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1017",
+      "programslug": "meanraatio",
+      "programimage": "https://static-cdn.sr.se/images/1017/6ae7f2e7-6df8-427a-9571-840491a4188b.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1017/6ae7f2e7-6df8-427a-9571-840491a4188b.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1017/92bc3d30-f5e8-4230-a860-0a53f613ac66.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1017/92bc3d30-f5e8-4230-a860-0a53f613ac66.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1017/6ae7f2e7-6df8-427a-9571-840491a4188b.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1017/6ae7f2e7-6df8-427a-9571-840491a4188b.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/meanraatio/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/meanraatio/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sr_meanraatio/"
+        }
+      ],
+      "channel": {
+        "id": 1017,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Armi Rousu",
+      "id": 1017,
+      "name": "Meänraatio"
+    },
+    {
+      "description": "Vi finns på plats ute i naturen varje vecka, året om. Få upplevelser och kunskap med prassel och visk, experter och fågelsång.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "payoff": "Vi finns på plats ute i naturen varje vecka, året om. Få upplevelser och kunskap med prassel och visk, experter och fågelsång.",
+      "broadcastinfo": "Lördag 06.10 i P1. Repris natt till söndag 04.12 samt måndag 19.03.",
+      "email": "naturmorgon@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1027",
+      "programslug": "naturmorgon",
+      "programimage": "https://static-cdn.sr.se/images/1027/45e83b47-d9a5-4b1d-9481-4b6edb6da93e.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1027/45e83b47-d9a5-4b1d-9481-4b6edb6da93e.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1027/26a0f399-81ec-45b6-8a8e-83b1f878ec37.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1027/26a0f399-81ec-45b6-8a8e-83b1f878ec37.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1027/45e83b47-d9a5-4b1d-9481-4b6edb6da93e.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1027/45e83b47-d9a5-4b1d-9481-4b6edb6da93e.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/naturmorgon/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/naturmorgon/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Magnus Gylje",
+      "id": 1027,
+      "name": "Naturmorgon"
+    },
+    {
+      "description": "Sveriges Radio Finskan satuja ja sarjoja lapsille. Sagor och berättelser för barn på finska.",
+      "programcategory": {
+        "id": 2,
+        "name": "Barn 3 - 8 år"
+      },
+      "broadcastinfo": "Kaikki tämän sivun ohjelmat ovat ladattavissa podeina",
+      "email": "roketti@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1029",
+      "programslug": "taikalipas",
+      "programimage": "https://static-cdn.sr.se/images/1029/66ee5bdb-0c14-473c-838f-c5de8fb99e34.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1029/66ee5bdb-0c14-473c-838f-c5de8fb99e34.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1029/6d60a216-d213-46c6-8207-5b2d5442ca8c.png?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1029/6d60a216-d213-46c6-8207-5b2d5442ca8c.png",
+      "socialimage": "https://static-cdn.sr.se/images/1029/66ee5bdb-0c14-473c-838f-c5de8fb99e34.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1029/66ee5bdb-0c14-473c-838f-c5de8fb99e34.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiofinska"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradiofinska/"
+        }
+      ],
+      "channel": {
+        "id": 226,
+        "name": "Sveriges Radio Finska"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Helena Huhta Hermans",
+      "id": 1029,
+      "name": "Lastenohjelma Taikalipas på finska"
+    },
+    {
+      "description": "Nuortenohjelma, program för unga (mest) eller (dels) på finska.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Bastupsykos ja Nuoret på finska 2020-2022",
+      "email": "vera.karlstrom@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1044",
+      "programslug": "nuoretpafinska",
+      "programimage": "https://static-cdn.sr.se/images/1044/d7a229d7-525e-45c3-8272-d20efc6817c9.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1044/d7a229d7-525e-45c3-8272-d20efc6817c9.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1044/bbee854f-25ca-46f6-9a0d-2470a937ce5e.png?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1044/bbee854f-25ca-46f6-9a0d-2470a937ce5e.png",
+      "socialimage": "https://static-cdn.sr.se/images/1044/d7a229d7-525e-45c3-8272-d20efc6817c9.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1044/d7a229d7-525e-45c3-8272-d20efc6817c9.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiofinska"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/nuoretpafinska/"
+        }
+      ],
+      "channel": {
+        "id": 226,
+        "name": "Sveriges Radio Finska"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Helena Huhta Hermans",
+      "id": 1044,
+      "name": "Nuoret & Bastupsykos"
+    },
+    {
+      "description": "Arkiv. Långa intervjuer som kommer personer nära. Programmet slutade sändas 2009.",
+      "programcategory": {
+        "id": 7,
+        "name": "Samhälle"
+      },
+      "payoff": "Intervjuer som kommer tätt inpå människan.",
+      "broadcastinfo": "Programmet slutade sändas 2009. ",
+      "email": "",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1054",
+      "programslug": "samtal-pagar",
+      "programimage": "https://static-cdn.sr.se/images/1054/47c0041b-3c33-408b-8254-f113b569e89c.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1054/47c0041b-3c33-408b-8254-f113b569e89c.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1054/2137a638-22ab-4515-81dd-65b83fcea686.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1054/2137a638-22ab-4515-81dd-65b83fcea686.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1054/47c0041b-3c33-408b-8254-f113b569e89c.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1054/47c0041b-3c33-408b-8254-f113b569e89c.jpg",
+      "socialmediaplatforms": [],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Peter O. Nilsson",
+      "id": 1054,
+      "name": "Samtal pågår"
+    },
+    {
+      "description": "Ljudböcker från Sveriges Radio sedan 1939 – utvalda romaner och specialskrivna radionoveller",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "payoff": "",
+      "broadcastinfo": "",
+      "email": "radiofoljetongen@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1111",
+      "programslug": "ljudbocker",
+      "programimage": "https://static-cdn.sr.se/images/1111/19f35fcd-212b-445e-b387-9b391cbf4e7c.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1111/19f35fcd-212b-445e-b387-9b391cbf4e7c.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1111/2b746c78-8c66-4f59-b097-959d45a91439.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1111/2b746c78-8c66-4f59-b097-959d45a91439.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1111/19f35fcd-212b-445e-b387-9b391cbf4e7c.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1111/19f35fcd-212b-445e-b387-9b391cbf4e7c.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiop1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 1111,
+      "name": "Ljudböcker från Radioföljetongen & Radionovellen"
+    },
+    {
+      "description": "Ring oss på 020-22 10 10 och tyck till!",
+      "programcategory": {
+        "id": 7,
+        "name": "Samhälle"
+      },
+      "broadcastinfo": "Måndag till fredag 09:30",
+      "email": "ringp1@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1120",
+      "programslug": "ringp1",
+      "programimage": "https://static-cdn.sr.se/images/1120/d1923be0-b6c7-46b3-901f-6cfa0a9fc59a.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1120/d1923be0-b6c7-46b3-901f-6cfa0a9fc59a.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1120/6f10a8d4-b839-45c4-9deb-0ad3db619c65.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1120/6f10a8d4-b839-45c4-9deb-0ad3db619c65.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1120/d1923be0-b6c7-46b3-901f-6cfa0a9fc59a.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1120/d1923be0-b6c7-46b3-901f-6cfa0a9fc59a.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/ringp1"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/srringp1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Sabina Schatzl (före 1/4 2024, se resp. avsnitt)",
+      "id": 1120,
+      "name": "Ring P1 - 020-22 10 10"
+    },
+    {
+      "description": "Sändes 2006-2007. Vi tar upp ditt mejlade åtal. Vi utreder, argumenterar och dömer - allt efter tycke och smak.",
+      "programcategory": {
+        "id": 133,
+        "name": "Humor"
+      },
+      "broadcastinfo": "Programmet uppdateras inte.",
+      "email": "",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1123",
+      "programslug": "hejdomstol",
+      "programimage": "https://static-cdn.sr.se/images/1123/2938021_512_512.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1123/2938021_512_512.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1123/2365112_176_132.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1123/2365112_176_132.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1123/2938021_512_512.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1123/2938021_512_512.jpg",
+      "socialmediaplatforms": [],
+      "channel": {
+        "id": 164,
+        "name": "P3"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Ulla Svensson",
+      "id": 1123,
+      "name": "Hej Domstol"
+    },
+    {
+      "description": "I P4 Sörmland hör du det senaste som händer i länet. Du får aktuella intervjuer, trafik och väder blandat med musik.",
+      "broadcastinfo": "Måndag till fredag 15.04-17.30",
+      "email": "p4sormland@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1142",
+      "programslug": "eftermiddagip4sormland",
+      "programimage": "https://static-cdn.sr.se/images/1142/8de9bb30-d6ed-4958-8786-201eddb89ce5.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1142/8de9bb30-d6ed-4958-8786-201eddb89ce5.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1142/a1a61856-f68e-4128-800d-c6697030eec8.jpeg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1142/a1a61856-f68e-4128-800d-c6697030eec8.jpeg",
+      "socialimage": "https://static-cdn.sr.se/images/1142/8de9bb30-d6ed-4958-8786-201eddb89ce5.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1142/8de9bb30-d6ed-4958-8786-201eddb89ce5.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p4sormland"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/p4sormland/"
+        }
+      ],
+      "channel": {
+        "id": 202,
+        "name": "P4 Sörmland"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Robin Gustafsson",
+      "id": 1142,
+      "name": "Eftermiddag i P4 Sörmland"
+    },
+    {
+      "description": "Starta lördagsmorgonen i sällskap med pratglada människor, kluriga frågor och bra önskemusik. \nRing så spelar vi är Sveriges mest avlyssnade radioprogram. För att delta ring 020-21 22 23, om du har rätt slutsiffra.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Lördagar 07.03 - 09.50",
+      "email": "ring.p4@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1148",
+      "programslug": "ringsaspelarvi",
+      "programimage": "https://static-cdn.sr.se/images/1148/47b31cc6-376a-40ff-8aca-2d3798e49da6.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1148/47b31cc6-376a-40ff-8aca-2d3798e49da6.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1148/c21d53ca-440c-451e-8919-993a3b98aca7.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1148/c21d53ca-440c-451e-8919-993a3b98aca7.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1148/47b31cc6-376a-40ff-8aca-2d3798e49da6.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1148/47b31cc6-376a-40ff-8aca-2d3798e49da6.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/ringsaspelarvi"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/ringsaspelarvi/"
+        }
+      ],
+      "channel": {
+        "id": 158,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Marcus Léonarde",
+      "id": 1148,
+      "name": "Ring så spelar vi"
+    },
+    {
+      "description": "Tankar för dagen ger en stunds eftertanke i nyhetsflödet.",
+      "programcategory": {
+        "id": 4,
+        "name": "Livsåskådning"
+      },
+      "broadcastinfo": "Måndag-fredag 06.25 och lördag 06.03. Repriser måndag till fredag 20:50 och lördag 20:55.",
+      "email": "tankar@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1165",
+      "programslug": "tankarfordagen",
+      "programimage": "https://static-cdn.sr.se/images/1165/d9e218f3-4345-42ab-aeb5-4eb51c31d1fe.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1165/d9e218f3-4345-42ab-aeb5-4eb51c31d1fe.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1165/71bb7371-bdfb-40aa-a76a-1e2b854fc58e.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1165/71bb7371-bdfb-40aa-a76a-1e2b854fc58e.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1165/d9e218f3-4345-42ab-aeb5-4eb51c31d1fe.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1165/d9e218f3-4345-42ab-aeb5-4eb51c31d1fe.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiop1"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Emma Boëthius",
+      "id": 1165,
+      "name": "Tankar för dagen"
+    },
+    {
+      "description": "P1:s hälsojournalistiska program.",
+      "programcategory": {
+        "id": 14,
+        "name": "Livsstil"
+      },
+      "broadcastinfo": "Tisdag 10.04",
+      "email": "kropp@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1272",
+      "programslug": "kroppsjal",
+      "programimage": "https://static-cdn.sr.se/images/1272/c88a8a37-fbb1-47fa-be5c-73d7e5aa5d61.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1272/c88a8a37-fbb1-47fa-be5c-73d7e5aa5d61.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1272/cb479faa-0e25-4469-8f87-d73618327fc7.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1272/cb479faa-0e25-4469-8f87-d73618327fc7.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1272/c88a8a37-fbb1-47fa-be5c-73d7e5aa5d61.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1272/c88a8a37-fbb1-47fa-be5c-73d7e5aa5d61.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/kroppochsjalsverigesradio"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/kroppochsjalp1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Caroline Salzinger",
+      "id": 1272,
+      "name": "Kropp & Själ"
+    },
+    {
+      "description": "Konflikt är Sveriges Radios fördjupande utrikesmagasin. Vi knyter ihop världspolitik och svensk vardag.",
+      "programcategory": {
+        "id": 7,
+        "name": "Samhälle"
+      },
+      "broadcastinfo": "Fredag 17.00 i SR Play och lördag 10.03 i P1",
+      "email": "konflikt@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1300",
+      "programslug": "konflikt",
+      "programimage": "https://static-cdn.sr.se/images/1300/a2816eec-6b0b-44d2-b11b-07baf2ccbd6c.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1300/a2816eec-6b0b-44d2-b11b-07baf2ccbd6c.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1300/9e32e0a9-3f4c-4cc3-9cd7-a1c965a5abc0.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1300/9e32e0a9-3f4c-4cc3-9cd7-a1c965a5abc0.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1300/a2816eec-6b0b-44d2-b11b-07baf2ccbd6c.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1300/a2816eec-6b0b-44d2-b11b-07baf2ccbd6c.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/p1konflikt"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/p1konflikt/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Klas Wolf-Watz",
+      "id": 1300,
+      "name": "Konflikt"
+    },
+    {
+      "description": "Hans Rosenfeldt och en pratglad panel som inte får tveka, upprepa sig eller lämna ämnet.",
+      "programcategory": {
+        "id": 133,
+        "name": "Humor"
+      },
+      "broadcastinfo": "Lördag 16.03",
+      "email": "paminuten@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1307",
+      "programslug": "paminuten",
+      "programimage": "https://static-cdn.sr.se/images/1307/447af7c7-b087-4812-97d0-0c17ecafe3b4.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1307/447af7c7-b087-4812-97d0-0c17ecafe3b4.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1307/b040eb2f-80b4-485f-b164-1d8a433a968f.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1307/b040eb2f-80b4-485f-b164-1d8a433a968f.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1307/447af7c7-b087-4812-97d0-0c17ecafe3b4.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1307/447af7c7-b087-4812-97d0-0c17ecafe3b4.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiop1"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com/sverigesradioP1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Caroline Kernen",
+      "id": 1307,
+      "name": "På minuten"
+    },
+    {
+      "description": "P1:s program för grävande journalistik. Vi granskar missförhållanden och samhällsfenomen.",
+      "programcategory": {
+        "id": 7,
+        "name": "Samhälle"
+      },
+      "broadcastinfo": "Måndag 10.04",
+      "email": "kaliber@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1316",
+      "programslug": "kaliber",
+      "programimage": "https://static-cdn.sr.se/images/1316/3e0432ad-da11-4209-8244-5872343122a6.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1316/3e0432ad-da11-4209-8244-5872343122a6.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1316/5da81722-2807-4c9d-9571-54af88a9fcf0.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1316/5da81722-2807-4c9d-9571-54af88a9fcf0.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1316/3e0432ad-da11-4209-8244-5872343122a6.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1316/3e0432ad-da11-4209-8244-5872343122a6.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": ""
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Sabina Schatzl",
+      "id": 1316,
+      "name": "Kaliber"
+    },
+    {
+      "description": "Finska Pinnar oli Sisuradion kaksikielinen perjantai-illan viihdeohjelma. Tvåspråkig fredagsunderhållning med aktuella gäster och fredagspanel, det var Finska Pinnar det!",
+      "programcategory": {
+        "id": 5,
+        "name": "Musik"
+      },
+      "broadcastinfo": "Ohjelmaa lähetettiin 2008-2014.",
+      "email": "tipsafinska@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1319",
+      "programslug": "catchy",
+      "programimage": "https://static-cdn.sr.se/images/1319/1d0de8ff-ed3e-4ba6-8d36-2888797a4098.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1319/1d0de8ff-ed3e-4ba6-8d36-2888797a4098.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1319/23f979f9-0922-4148-82f2-867c900b44cd.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1319/23f979f9-0922-4148-82f2-867c900b44cd.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1319/1d0de8ff-ed3e-4ba6-8d36-2888797a4098.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1319/1d0de8ff-ed3e-4ba6-8d36-2888797a4098.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradiofinska"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradiofinska/"
+        }
+      ],
+      "channel": {
+        "id": 226,
+        "name": "Sveriges Radio Finska"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Helena Huhta Hermans",
+      "id": 1319,
+      "name": "Finska Pinnar"
+    },
+    {
+      "description": "Tankar och reflektioner utifrån ett andligt och religiöst perspektiv.  Bygger på text ut helig skrift, bön, egen reflektion och musik.",
+      "programcategory": {
+        "id": 4,
+        "name": "Livsåskådning"
+      },
+      "broadcastinfo": "Måndag - fredag 05.46",
+      "email": "liv@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1320",
+      "programslug": "morgonandakten",
+      "programimage": "https://static-cdn.sr.se/images/1320/51922c5f-0a7c-4567-892f-79214e590550.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1320/51922c5f-0a7c-4567-892f-79214e590550.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1320/6c1180dd-d9a4-4515-ba2a-d639a379015a.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1320/6c1180dd-d9a4-4515-ba2a-d639a379015a.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1320/51922c5f-0a7c-4567-892f-79214e590550.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1320/51922c5f-0a7c-4567-892f-79214e590550.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/liviP1/"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Sabina Schatzl",
+      "id": 1320,
+      "name": "Andakten i P1"
+    },
+    {
+      "description": "Mer än nio decennier av fantastisk radio att återupptäcka och minnas.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "email": "",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/avsnitt?programid=1602",
+      "programslug": "radiofynd",
+      "programimage": "https://static-cdn.sr.se/images/1602/16dc41b7-e790-4835-bd1e-e7f2e15843f3.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1602/16dc41b7-e790-4835-bd1e-e7f2e15843f3.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1602/360e9cd6-15d6-4aa0-8b9c-b8c6a267afd2.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1602/360e9cd6-15d6-4aa0-8b9c-b8c6a267afd2.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1602/16dc41b7-e790-4835-bd1e-e7f2e15843f3.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1602/16dc41b7-e790-4835-bd1e-e7f2e15843f3.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": ""
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Peter O Nilsson ",
+      "id": 1602,
+      "name": "Radiofynd"
+    },
+    {
+      "description": "Njut av den bästa klassiska musiken.",
+      "programcategory": {
+        "id": 5,
+        "name": "Musik"
+      },
+      "payoff": "Koppla av med den bästa klassiska musiken.",
+      "email": "p2klassiskt@sverigesradio.se ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1603",
+      "programslug": "p2klassiskt",
+      "programimage": "https://static-cdn.sr.se/images/1603/ab9caa82-903f-4770-a3c9-b13280172e50.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1603/ab9caa82-903f-4770-a3c9-b13280172e50.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1603/32803675-11b7-4288-8958-fa0dd357d0d1.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1603/32803675-11b7-4288-8958-fa0dd357d0d1.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1603/ab9caa82-903f-4770-a3c9-b13280172e50.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1603/ab9caa82-903f-4770-a3c9-b13280172e50.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/SverigesradioP2/"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradio_p2/"
+        }
+      ],
+      "channel": {
+        "id": 163,
+        "name": "P2"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": false,
+      "responsibleeditor": "Peter O Nilsson",
+      "id": 1603,
+      "name": "P2 Klassiskt"
+    },
+    {
+      "description": "Sidan uppdateras inte. Om existens och religion, på ett personligt sätt",
+      "programcategory": {
+        "id": 4,
+        "name": "Livsåskådning"
+      },
+      "broadcastinfo": "Programmet sänds inte längre",
+      "email": "",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1610",
+      "programslug": "viddagensborjan",
+      "programimage": "https://static-cdn.sr.se/images/1610/258063b9-bc25-4f47-94c5-d4d9de137754.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1610/258063b9-bc25-4f47-94c5-d4d9de137754.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1610/3188389_2048_1152.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1610/3188389_2048_1152.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1610/258063b9-bc25-4f47-94c5-d4d9de137754.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1610/258063b9-bc25-4f47-94c5-d4d9de137754.jpg",
+      "socialmediaplatforms": [],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Louise Welander",
+      "id": 1610,
+      "name": "Vid dagens början"
+    },
+    {
+      "description": "Sidan uppdateras inte. Fem personliga minuter om livet",
+      "programcategory": {
+        "id": 4,
+        "name": "Livsåskådning"
+      },
+      "broadcastinfo": "Programmet sänds inte längre",
+      "email": "",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1611",
+      "programslug": "viddagensslut",
+      "programimage": "https://static-cdn.sr.se/images/1611/f7c3924a-b7bc-4a4c-aae3-dbe787e812fc.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1611/f7c3924a-b7bc-4a4c-aae3-dbe787e812fc.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1611/2333647_176_132.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1611/2333647_176_132.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1611/f7c3924a-b7bc-4a4c-aae3-dbe787e812fc.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1611/f7c3924a-b7bc-4a4c-aae3-dbe787e812fc.jpg",
+      "socialmediaplatforms": [],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Louise Welander",
+      "id": 1611,
+      "name": "Vid dagens slut"
+    },
+    {
+      "description": "Fördjupar dagens stora händelser i Sverige och världen.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "Fördjupar dagens stora händelser i Sverige och världen",
+      "broadcastinfo": "Vardagar klockan 16.00-16.45 och 17.00-17.45 och repris 22.12",
+      "email": "studioett@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1637",
+      "programslug": "studioett",
+      "programimage": "https://static-cdn.sr.se/images/1637/ea94db5e-390c-40de-99ff-47a9b00ca1d5.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1637/ea94db5e-390c-40de-99ff-47a9b00ca1d5.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1637/52b42ba8-6215-4aac-b4dd-7bd752396df8.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1637/52b42ba8-6215-4aac-b4dd-7bd752396df8.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1637/ea94db5e-390c-40de-99ff-47a9b00ca1d5.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1637/ea94db5e-390c-40de-99ff-47a9b00ca1d5.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/studioett"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Klas Wolf-Watz",
+      "id": 1637,
+      "name": "Studio Ett"
+    },
+    {
+      "description": "Detta har hänt…",
+      "programcategory": {
+        "id": 82,
+        "name": "Dokumentär"
+      },
+      "email": "p3nyheter@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1646",
+      "programslug": "p3nyheterdokumentar",
+      "programimage": "https://static-cdn.sr.se/images/1646/f8832618-9298-46fb-bb44-db0952e237dc.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1646/f8832618-9298-46fb-bb44-db0952e237dc.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1646/1f554f6b-30e0-4941-988a-78ad40c88743.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1646/1f554f6b-30e0-4941-988a-78ad40c88743.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1646/f8832618-9298-46fb-bb44-db0952e237dc.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1646/f8832618-9298-46fb-bb44-db0952e237dc.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": ""
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/P3Nyheter/"
+        }
+      ],
+      "channel": {
+        "id": 164,
+        "name": "P3"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Caroline Lagergren",
+      "id": 1646,
+      "name": "P3 Nyheter Dokumentär"
+    },
+    {
+      "description": "Här hör du de senaste nyheterna, men vi nöjer oss inte där. Vi tar nyheterna djupare.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "Vi tar nyheterna djupare",
+      "broadcastinfo": "Måndag till fredag klockan 05.30-09.30",
+      "email": "p1morgon@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1650",
+      "programslug": "p1morgon",
+      "programimage": "https://static-cdn.sr.se/images/1650/d808a251-bbfa-49f7-8a74-fc2e7e88ba31.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1650/d808a251-bbfa-49f7-8a74-fc2e7e88ba31.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1650/9c660750-b6c3-438a-a64f-e236162dd086.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1650/9c660750-b6c3-438a-a64f-e236162dd086.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1650/d808a251-bbfa-49f7-8a74-fc2e7e88ba31.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1650/d808a251-bbfa-49f7-8a74-fc2e7e88ba31.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/srekot"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com//"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Klas Wolf-Watz",
+      "id": 1650,
+      "name": "P1 Morgon"
+    },
+    {
+      "description": "För dig som är fritidsodlare och som vill gräva lite djupare i kompost och rabatter för att lära dig mer om odling. Här får du experttips, goda råd och en inblick i odlandets olika trender och möjligheter.",
+      "programcategory": {
+        "id": 12,
+        "name": "Vetenskap/Miljö"
+      },
+      "broadcastinfo": " ",
+      "email": " ",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=1667",
+      "programslug": "odlamedp1",
+      "programimage": "https://static-cdn.sr.se/images/1667/cf0b9443-f259-445e-b2b6-405a82fb0b74.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/1667/cf0b9443-f259-445e-b2b6-405a82fb0b74.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/1667/5c7109c7-d386-495e-b293-8b4e375799e4.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/1667/5c7109c7-d386-495e-b293-8b4e375799e4.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/1667/cf0b9443-f259-445e-b2b6-405a82fb0b74.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/1667/cf0b9443-f259-445e-b2b6-405a82fb0b74.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/pages/Sveriges-Radio-Odla-med-P1/147123175360397"
+        }
+      ],
+      "channel": {
+        "id": 132,
+        "name": "P1"
+      },
+      "archived": true,
+      "hasondemand": false,
+      "haspod": true,
+      "responsibleeditor": "Magnus Gylje",
+      "id": 1667,
+      "name": "Odla med P1"
+    },
+    {
+      "description": "Översikt, varningar och regionala väderprognoser från SMHI för ett dygn framåt.",
+      "programcategory": {
+        "id": 68,
+        "name": "Nyheter"
+      },
+      "payoff": "– land- och sjöväder ",
+      "broadcastinfo": "Varje vardag i P1 kl 05.55, 06.55, 08.55, 12.55, 15.55 och 21.50, samt Lör-Sön kl 05.55, 06.55, 07.55, 12.50 och 21.50.",
+      "email": "",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=2000",
+      "programslug": "vaderfranhelalandet",
+      "programimage": "https://static-cdn.sr.se/images/2000/adb07fd4-1388-4944-b669-1b9a6b77c251.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/2000/adb07fd4-1388-4944-b669-1b9a6b77c251.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/2000/601ada6b-aea9-4d9a-ab61-15d388461b3a.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/2000/601ada6b-aea9-4d9a-ab61-15d388461b3a.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/2000/adb07fd4-1388-4944-b669-1b9a6b77c251.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/2000/adb07fd4-1388-4944-b669-1b9a6b77c251.jpg",
+      "socialmediaplatforms": [],
+      "channel": {
+        "id": 88,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Elin Claeson ",
+      "id": 2000,
+      "name": "Väder från hela landet"
+    },
+    {
+      "description": "Listan som är en av de mest betydelsefulla måttstockarna av svensk musik.",
+      "programcategory": {
+        "id": 3,
+        "name": "Kultur/Nöje"
+      },
+      "broadcastinfo": "Söndagar kl 11.03-12.00",
+      "email": "svensktoppen@sverigesradio.se",
+      "phone": "",
+      "programurl": "https://sverigesradio.se/default.aspx?programid=2023",
+      "programslug": "svensktoppen",
+      "programimage": "https://static-cdn.sr.se/images/2023/4dddadfa-c8c1-4d55-8abe-78bc311c20d2.jpg?preset=api-default-square",
+      "programimagetemplate": "https://static-cdn.sr.se/images/2023/4dddadfa-c8c1-4d55-8abe-78bc311c20d2.jpg",
+      "programimagewide": "https://static-cdn.sr.se/images/2023/3fb1fd83-3f9f-4916-9fd2-ff11f7046ed9.jpg?preset=api-default-rectangle",
+      "programimagetemplatewide": "https://static-cdn.sr.se/images/2023/3fb1fd83-3f9f-4916-9fd2-ff11f7046ed9.jpg",
+      "socialimage": "https://static-cdn.sr.se/images/2023/4dddadfa-c8c1-4d55-8abe-78bc311c20d2.jpg?preset=api-default-square",
+      "socialimagetemplate": "https://static-cdn.sr.se/images/2023/4dddadfa-c8c1-4d55-8abe-78bc311c20d2.jpg",
+      "socialmediaplatforms": [
+        {
+          "platform": "Facebook",
+          "platformurl": "https://www.facebook.com/sverigesradioP4/"
+        },
+        {
+          "platform": "Twitter",
+          "platformurl": "https://twitter.com//"
+        },
+        {
+          "platform": "Instagram",
+          "platformurl": "https://instagram.com/sverigesradiop4/"
+        }
+      ],
+      "channel": {
+        "id": 158,
+        "name": "[No channel]"
+      },
+      "archived": false,
+      "hasondemand": true,
+      "haspod": true,
+      "responsibleeditor": "Daniel af Klintberg",
+      "id": 2023,
+      "name": "Svensktoppen "
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "size": 100,
+    "totalhits": 784,
+    "totalpages": 8,
+    "nextpage": "https://api.sr.se/v2/programs?size=100&format=json&page=2"
+  }
+}

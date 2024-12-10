@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: proxyapi
+server:
+  port: 8080
+worker-service:
+  delay: 10000
+  poll-interval: 100
+sr:
+  api:
+    base-url: https://api.sr.se/api/v2
+app:
+  version: "1.0.0"
+  webclient:
+    max-in-memory-size: 16777216 # 16MB

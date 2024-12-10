@@ -1,0 +1,11 @@
+{
+  "errors": {
+    "toDate": [
+      "The value 'test' is not valid."
+    ]
+  },
+  "type": "https://tools.ietf.org/html/rfc9110#section-15.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-9c367c211440525222f7000bdf9f3f10-94bf42e41690910e-00"
+}
